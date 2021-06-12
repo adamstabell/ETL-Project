@@ -1,619 +1,602 @@
-House ID,Street,City,Zipcode,Listing Price ($),Number of Beds,Number of Baths,Square Footage
-0,7945 East Viewrim Drive,Anaheim,92808,595000,2,2,984
-1,1650 South Inez Way,Anaheim,92802,850000,4,3,2565.0
-2,1275 South Goldstone,Anaheim,92804,899000,4,2.5,2002.0
-3,324 East Leatrice Lane,Anaheim,92802,3795000,24,14,9036.0
-4,8425 East Meadowridge Street,Anaheim,92808,799900,3,2,1514.0
-5,1841 West Crestwood Lane,Anaheim,92804,1700000,10,6,5042.0
-6,1473 East Rosewood Avenue,Anaheim,92805,699000,3,2,1279.0
-7,1051 South Volterra Way,Anaheim,92808,577000,3,3,1181.0
-8,3325 West Rovigo Drive,Anaheim,92801,675000,4,3.5,1709.0
-9,745 North Clementine Street,Anaheim,92805,699900,3,2,1483.0
-10,"5803 East Mountain Loop Trail, Unit 26",Anaheim,92807,850000,3,2.5,1831.0
-11,1218 North Ralston Street,Anaheim,92801,749900,3,2,1245.0
-12,2404 East Briarvale Avenue,Anaheim,92806,830000,3,2.5,2024.0
-13,6516 East Paseo Diego,Anaheim,92807,749000,3,2.5,2312.0
-14,1509 West Chevy Chase Drive,Anaheim,92801,699900,4,2,1555.0
-15,"235 South Beach Boulevard, Unit 23",Anaheim,92804,224900,2,1,1056.0
-16,1151 North Voyager Lane,Anaheim,92801,754300,2,2,1621.0
-17,1834 West Gramercy Avenue,Anaheim,92801,1250000,8,4,3950.0
-18,1828 North Cymbal Way,Anaheim,92807,724900,3,2,1238.0
-19,3601 La Fiesta Drive,Brea,92823,1195000,4,3,2463.0
-20,755 Site Drive,Brea,92821,1018000,4,3.5,2200.0
-21,406 South Brea Boulevard,Brea,92821,769800,3,2,1317.0
-22,1908 Skywood Street,Brea,92821,775000,3,2,1511.0
-23,2101 Windbreak Circle,Brea,92821,975000,4,2.25,2526.0
-24,550 Linden Way,Brea,92821,775000,3,2,1377.0
-25,828 Carob Street,Brea,92821,824000,3,2,1691.0
-26,2043 Arbor Circle,Brea,92821,799000,3,2,1562.0
-27,875 Reynoso Parkway,Brea,92821,1050000,5,4,3645.0
-28,1584 Ironwood Court,Brea,92821,550888,4,3,1499.0
-29,449 Brea Hills Avenue,Brea,92823,1650000,4,3.5,4267.0
-30,419 Mallorca Lane,Brea,92823,640000,2,2,1046.0
-31,"1051 Site, Unit 276",Brea,92821,317500,3,2,1500.0
-32,"1051 Site Drive, Unit 276",Brea,92821,317500,3,2,1500.0
-33,626 Desert Canyon Road,Brea,92821,1295000,4,3,2768.0
-34,"632 East Birch Street, Unit B",Brea,92821,459999,2,1.5,1104.0
-35,8241 Celestial Avenue,Buena Park,90621,699900,3,2.25,1498.0
-36,8180 Orangethorpe Avenue,Buena Park,90621,659000,3,3,1519.0
-37,5632 Fox Hills Avenue,Buena Park,90621,1099000,4,2.25,2241.0
-38,5400 Brae Burn Place,Buena Park,90621,1500000,4,3.5,3646.0
-39,8101 San Heron Circle,Buena Park,90620,690000,3,2,1512.0
-40,6838 Mount Waterman Drive,Buena Park,90620,725000,3,1.75,1330.0
-41,7889 La Casa Way,Buena Park,90620,779000,3,1.75,1195.0
-42,5716 Spring Street,Buena Park,90621,690000,3,3,1486.0
-43,5972 Marshall Avenue,Buena Park,90621,799999,4,2.5,1919.0
-44,5417 Arrowhead Avenue,Buena Park,90621,685000,3,2.5,1598.0
-45,8720 Vestavia Avenue,Buena Park,90621,1100000,5,4,2625.0
-46,5764 Spring Street,Buena Park,90621,810000,4,3.5,2010.0
-47,6971 San Pasqual Circle,Buena Park,90620,849000,4,2.75,1927.0
-48,8112 San Heron Circle,Buena Park,90620,729000,3,1.75,1052.0
-49,8081 Page Street,Buena Park,90621,695000,3,3,2054.0
-50,7740 Granada Drive,Buena Park,90621,955900,4,2.5,1864.0
-51,8254 Orangethorpe Avenue,Buena Park,90621,720000,3,2.25,1647.0
-52,"309 Monte Vista Avenue, Unit A",Costa Mesa,92627,650000,2,1,1080.0
-53,3430 Hollow Brook Circle,Costa Mesa,92626,479999,3,2,1324.0
-54,944 Paularino Avenue,Costa Mesa,92626,899000,5,2,1666.0
-55,"2191 Harbor, Unit 27",Costa Mesa,92627,129000,4,2,1344.0
-56,"273 Costa Mesa Street, Unit A",Costa Mesa,92627,1600000,5,3,2352.0
-57,"1660 Whittier Avenue, Unit 6",Costa Mesa,92627,89500,1,1,377
-58,1606 Somerton Drive,Costa Mesa,92627,1097000,3,3,1896.0
-59,284 Flower Street,Costa Mesa,92627,2400000,4,3,3810.0
-60,2768 Tern Circle,Costa Mesa,92626,1749000,4,3,2978.0
-61,910 Powell Court,Costa Mesa,92626,700000,3,2.5,1804.0
-62,3133 Yukon Avenue,Costa Mesa,92626,1100000,3,2,1463.0
-63,979 Denver Drive,Costa Mesa,92626,899500,3,2,1834.0
-64,188 Merrill Place,Costa Mesa,92627,2099999,5,3.5,2598.0
-65,188 Merrill Place,Costa Mesa,92627,2099999,5,4,2598.0
-66,"260 Victoria Street, Unit F2",Costa Mesa,92627,549000,2,2.5,920
-67,1103 Corona Lane,Costa Mesa,92626,1075000,5,3,2263.0
-68,"2191 Harbor Boulevard, Unit 27",Costa Mesa,92627,129000,4,2,1344.0
-69,"340 East 20th Street, Unit A1",Costa Mesa,92627,1150000,3,2.5,1571.0
-70,"1845 Monrovia, Unit 76",Costa Mesa,92627,225000,3,2,1333.0
-71,4892 Park Avenue,Cypress,90630,1039000,4,2.5,2042.0
-72,6892 Jonathan Avenue,Cypress,90630,839999,4,2,1640.0
-73,10481 Barbara Anne Street,Cypress,90630,750000,3,2,1380.0
-74,4360 Larwin Avenue,Cypress,90630,499000,3,2,1056.0
-75,4850 Corso Circle,Cypress,90630,1380000,4,2.5,2519.0
-76,"4851 Bishop Street, Unit C",Cypress,90630,575000,2,2,1042.0
-77,6044 Orange Avenue,Cypress,90630,574900,2,1.5,
-78,10011 St Vincent Circle,Cypress,90630,829900,3,1.5,1205.0
-79,11599 Midway Drive,Cypress,90630,899000,5,3,2250.0
-80,10865 Rojo Court,Cypress,90720,1249900,3,3,2475.0
-81,9744 Paseo De Oro,Cypress,90630,689000,4,2.5,1748.0
-82,6892 Jonathan,Cypress,90630,839999,4,2,1640.0
-83,5450 Camp Street,Cypress,90630,700000,3,2.5,1549.0
-84,8812 Belday Street,Cypress,90630,845000,3,2,1258.0
-85,10231 Aqueduct Drive,Cypress,90630,950000,5,2.25,2086.0
-86,6546 Jaluit Street,Cypress,90630,895000,3,2,1400.0
-87,4656 Larwin Avenue,Cypress,90630,550000,3,1,989
-88,"9080 Bloomfield Avenue, Unit 100",Cypress,90630,85000,2,2,1500.0
-89,"9080 Bloomfield, Unit 100",Cypress,90630,85000,2,2,1500.0
-90,4911 Lemon Avenue,Cypress,90630,950000,3,2,2412.0
-91,7781 Herman Lane,La Palma,90623,1189000,6,3.5,2942.0
-92,8658 Santa Margarita Lane,La Palma,90623,585000,3,1.5,1315.0
-93,7682 Laurelwood Lane,La Palma,90623,955000,4,2.5,2088.0
-94,"820 Eucalyptus Lane, Unit 820",Fountain Valley,92708,245900,3,2,1404.0
-95,"16440 Atherton Mountain, Unit 33",Fountain Valley,92708,430000,2,2,1064.0
-96,"17200 Newhope Street, Unit 236",Fountain Valley,92708,458000,2,2,1300.0
-97,9056 Crocus Avenue,Fountain Valley,92708,1189000,4,2.5,2268.0
-98,"17200 Newhope Street, Unit 39",Fountain Valley,92708,575000,4,4,1680.0
-99,18743 Palm Street,Fountain Valley,92708,2799888,9,7,4500.0
-100,16036 Basil Street,Fountain Valley,92708,1300000,4,2.5,2268.0
-101,10173 Pike Avenue,Fountain Valley,92708,2599000,8,6,4345.0
-102,"12062 West Edinger Avenue, Unit 23",Fountain Valley,92704,77777,2,2,-
-103,138 Pecan Lane,Fountain Valley,92708,65000,3,2,-
-104,9367 Siskin Avenue,Fountain Valley,92708,1398000,8,6.5,4883.0
-105,18511 Callens Circle,Fountain Valley,92708,1149000,5,3,2362.0
-106,9643 Ellis Avenue,Fountain Valley,92708,939000,3,2,1663.0
-107,"17200 Newhope Street, Unit 39",Fountain Valley,92708,575000,2,2,1680.0
-108,108 Pigeon Lane,Fountain Valley,92708,159000,3,2,1512.0
-109,106 Myna Lane,Fountain Valley,92708,279000,3,2,1529.0
-110,"17200 Newhope Street, Unit 217",Fountain Valley,92708,449999,2,2,1040.0
-111,210 Crow Lane,Fountain Valley,92708,137000,3,2,1200.0
-112,11831 Dogwood Avenue,Fountain Valley,92708,899999,3,2,1278.0
-113,318 Napa Court,Fullerton,92833,975000,4,3,2160.0
-114,2713 Deerpark,Fullerton,92835,815000,3,2,1452.0
-115,2529 West Flower Avenue,Fullerton,92833,789000,4,3,1861.0
-116,812 Glenwood Terrace,Fullerton,92832,575000,2,1.5,1563.0
-117,2309 East Wilshire Avenue,Fullerton,92831,929900,4,2.5,2050.0
-118,1111 Sudene Avenue,Fullerton,92831,650000,3,1.5,1177.0
-119,605 West Avenue,Fullerton,92832,749000,4,2,1390.0
-120,"244 Cedar Hill North, Unit 244",Fullerton,92838,499999,2,2,1910.0
-121,"244 Cedar Hill, Unit 244",Fullerton,92838,499999,2,2,1910.0
-122,3027 Madison Avenue,Fullerton,92831,500000,2,1.5,1210.0
-123,880 North Ford Avenue,Fullerton,92832,1338000,5,3,2863.0
-124,1243 Cranbrook Place,Fullerton,92833,929000,4,2.5,2001.0
-125,2208 El Rancho Vista,Fullerton,92833,1050000,5,3,2187.0
-126,1383 Canterbury Lane,Fullerton,92831,999000,3,2,1958.0
-127,1607 Sunset Lane,Fullerton,92833,899000,3,2,1772.0
-128,1810 Chilton Court,Fullerton,92833,920000,4,2.5,1875.0
-129,327 West Knepp Avenue,Fullerton,92832,680800,3,2,1475.0
-130,3744 North Hermosa Place,Fullerton,92835,1968000,7,4.25,5053.0
-131,3917 Aragon Place,Fullerton,92835,1200000,3,1.75,2385.0
-132,"2900 Madison Avenue, Unit B41",Fullerton,92831,450000,2,1.75,943
-133,14101 Deanann Place,Garden Grove,92843,859000,4,2,1662.0
-134,12152 Bluebell Avenue,Garden Grove,92840,749999,4,2,1330.0
-135,11371 Kathy Lane,Garden Grove,92840,675000,3,2,1133.0
-136,11212 Clarissa Street,Garden Grove,92840,770000,5,2,1720.0
-137,12926 Newhope Street,Garden Grove,92840,569900,2,1.5,1392.0
-138,6846 Citriadora Court,Garden Grove,92845,537000,3,2.5,1454.0
-139,"12836 Palm Street, Unit 3",Garden Grove,92840,600000,4,3.5,1725.0
-140,"12219 Chapman Avenue, Unit 3",Garden Grove,92840,525000,3,2.5,1300.0
-141,12920 Sycamore Street,Garden Grove,92841,1650000,8,4,3752.0
-142,13232 Pinto Road,Garden Grove,92843,870000,4,2.5,2233.0
-143,8571 Davmor Avenue,Garden Grove,92841,875000,4,2.5,1857.0
-144,12451 Nutwood Street,Garden Grove,92840,899000,3,2.75,1663.0
-145,14102 Buena Street,Garden Grove,92843,1999888,8,8,3800.0
-146,12448 Lambert Circle,Garden Grove,92841,748000,3,2,1365.0
-147,13351 Jessica Drive,Garden Grove,92843,799000,3,1,
-148,"9924 11th Street, Unit A13",Garden Grove,92844,424900,2,1.75,819
-149,12692 Adrian Circle,Garden Grove,92840,690000,3,2,1553.0
-150,13142 Palm Street,Garden Grove,92843,780000,3,1,929
-151,10819 Westminster Avenue,Garden Grove,92843,569000,2,2,1349.0
-152,6971 Stanford Avenue,Garden Grove,92845,775000,3,1.75,1335.0
-153,9702 Allison Circle,Huntington Beach,92646,1695000,4,3,2370.0
-154,21891 Seacrest Lane,Huntington Beach,92646,1730000,5,3,2520.0
-155,9191 Regatta Drive,Huntington Beach,92646,1199999,5,2,2064.0
-156,615 7th Street,Huntington Beach,92648,1999000,4,4,3054.0
-157,"8162 Cape Hope Circle, Unit 202",Huntington Beach,92646,699000,2,2,1248.0
-158,"1200 Pacific Coast Highway, Unit 108",Huntington Beach,92648,549000,1,1,781
-159,9741 Melinda Circle,Huntington Beach,92646,1949000,4,3,2370.0
-160,606 Goldenwest Street,Huntington Beach,92648,1725000,3,3.5,3071.0
-161,19874 Deep Harbor Drive,Huntington Beach,92648,1095000,5,3,2485.0
-162,1932 Lake Street,Huntington Beach,92648,1549000,4,3,2969.0
-163,8473 Hibiscus Circle,Huntington Beach,92646,1699000,5,5.5,4200.0
-164,19056 Stonehurst Lane,Huntington Beach,92648,1775000,3,3.5,2700.0
-165,1306 Pacific Coast,Huntington Beach,92648,3500000,4,5,3700.0
-166,"16444 Bolsa Chica Street, Unit 140",Huntington Beach,92649,209900,2,2,1520.0
-167,"16444 Bolsa Chica, Unit 140",Huntington Beach,92649,209900,2,2,
-168,"17701 Sergio Circle, Unit 201",Huntington Beach,92647,529000,2,1,939
-169,7846 Lori Drive,Huntington Beach,92648,849000,3,2,1609.0
-170,7814 Alhambra Drive,Huntington Beach,92647,879000,3,2,1060.0
-171,19371 Weymouth Lane,Huntington Beach,92646,1050000,4,2,1875.0
-172,16727 Bolero Lane,Huntington Beach,92649,3150000,4,3,2879.0
-173,19742 Kingswood Lane,Huntington Beach,92646,415000,1,1,600
-174,2003 Hidden Valley Canyon Road,Laguna Beach,92651,1250000,2,2,824
-175,2003 Hidden Valley Canyon Road,Laguna Beach,92651,1250000,2,2,824
-176,1487 Catalina Street,Laguna Beach,92651,2450000,5,3,2303.0
-177,22161 Paseo Del Sur,Laguna Beach,92651,2100000,1,1.5,1060.0
-178,1149 Noria Street,Laguna Beach,92651,1799000,3,2,1854.0
-179,193 Emerald Bay,Laguna Beach,92651,16750000,4,5.5,7758.0
-180,254 Chiquita Street,Laguna Beach,92651,3298000,5,4,2002.0
-181,377 Mermaid Street,Laguna Beach,92651,4750000,4,6,3455.0
-182,385 Mermaid Street,Laguna Beach,92651,3550000,5,3,2300.0
-183,1315 Pitcairn Place,Laguna Beach,92651,4100000,5,6.5,4960.0
-184,31425 Coast Highway,Laguna Beach,92651,7498000,3,3,2200.0
-185,253 Emerald Bay,Laguna Beach,92651,7500000,5,5,4729.0
-186,1415 Coral Drive,Laguna Beach,92651,4350000,3,3.5,3400.0
-187,25 Bay Drive,Laguna Beach,92651,29900000,4,4.5,7000.0
-188,2623 Victoria Drive,Laguna Beach,92651,6200000,3,3,3655.0
-189,31711 Fairview Road,Laguna Beach,92651,2099000,2,2,900
-190,120 Irvine Cove Court,Laguna Beach,92651,9900000,5,4.5,6153.0
-191,549 Dunnegan Drive,Laguna Beach,92651,4595000,4,3.5,3311.0
-192,138 Emerald Bay,Laguna Beach,92651,6875000,4,4.5,3431.0
-193,571 Martinez Drive,La Habra,90631,689900,3,2,1154.0
-194,1901 Arbolita Drive,La Habra,90631,1050000,5,3,3018.0
-195,"740 West Lambert Road, Unit 39",La Habra,90631,375000,1,1,700
-196,1081 Briercliff Drive,La Habra,90631,799000,3,2,1431.0
-197,"2220 Lake Terrace Lane, Unit 97",La Habra,90631,194888,2,2,1632.0
-198,"1456 West Lambert Road, Unit 251",La Habra,90631,339500,1,1,660
-199,"1359 South Country Way, Unit 7",La Habra,90631,549900,2,2.5,1376.0
-200,2520 Canfield Drive,La Habra,90631,769900,3,2,1353.0
-201,130 East Greenwood Avenue,La Habra,90631,669000,3,1.75,1210.0
-202,1801 Pine Drive,La Habra,90631,698888,3,2.5,1657.0
-203,"351 South Monte Vista Street, Unit 4",La Habra,90631,425000,2,1.5,1082.0
-204,525 South Euclid Street,La Habra,90631,1775000,10,10,4800.0
-205,828 East La Habra Boulevard,La Habra,90631,500000,2,1,1683.0
-206,110 South College Street,La Habra,90631,500000,1,1,588
-207,2610 Story Avenue,La Habra,90631,650000,3,1.75,1495.0
-208,114 South College Street,La Habra,90631,350000,2,1,593
-209,1330 West Marigold Avenue,La Habra,90631,950000,4,3.5,2893.0
-210,105 East Knox Drive,La Habra,90631,625900,2,2.5,1411.0
-211,202 South Paige Lane,La Habra,90631,679900,3,2.5,1578.0
-212,"1430 West Lambert Road, Unit 386",La Habra,90631,309000,1,1,640
-213,"12100 Montecito Road, Unit 91",Los Alamitos,90720,659000,3,2,1216.0
-214,11922 Martha Ann Drive,Los Alamitos,90720,1399000,4,3,3009.0
-215,3922 San Joaquin Avenue,Los Alamitos,90720,1490000,5,3,2752.0
-216,31 High Water,Newport Beach,92657,59800000,7,11,15000.0
-217,624 Seaward Road,Newport Beach,92625,5495000,5,5,4468.0
-218,23 High Water,Newport Beach,92657,18000000,5,7,9449.0
-219,6 Midsummer,Newport Beach,92657,69800000,7,13,15500.0
-220,3100 Ocean Boulevard,Newport Beach,92625,16995000,3,3.5,4396.0
-221,25 Sea Island Drive,Newport Beach,92660,1225000,3,2.5,1819.0
-222,415 1/2 Marguerite Avenue,Newport Beach,92625,1495000,2,2,1293.0
-223,38 Linda Isle,Newport Beach,92660,31000000,4,4.5,5500.0
-224,1734 Plaza Del Norte,Newport Beach,92661,2925000,3,2.5,2369.0
-225,123 30th Street,Newport Beach,92663,3795000,6,4,2527.0
-226,2700 Ocean Boulevard,Newport Beach,92625,6995000,4,4,2948.0
-227,36 Auvergne,Newport Beach,92657,978000,2,2.75,1362.0
-228,7 Shoreview Drive,Newport Beach,92657,12950000,6,8.5,11000.0
-229,415 Marguerite Avenue,Newport Beach,92625,1495000,2,2,1293.0
-230,1 Royal St George Road,Newport Beach,92660,4950000,7,7,8131.0
-231,5505 River Avenue,Newport Beach,92663,3339000,4,3,2326.0
-232,"617-5 Orchid Avenue, Unit 2",Newport Beach,92625,1499000,2,2,1225.0
-233,"617 Orchid Avenue, Unit 2",Newport Beach,92625,1499000,2,2,1225.0
-234,1621 Anita Lane,Newport Beach,92660,2599000,3,2.5,2376.0
-235,127 Amethyst Avenue,Newport Beach,92662,3750000,3,3,2150.0
-236,12 Turnberry Drive,Newport Beach,92660,2795000,4,4,3340.0
-237,947 North Hart Street,Orange,92867,849985,4,2,1570.0
-238,"1540 East Trenton, Unit 46",Orange,92867,199500,3,2,-
-239,2886 North Santa Fe Place,Orange,92865,679000,3,2.5,1600.0
-240,351 North Seranado Street,Orange,92869,875000,4,3,1829.0
-241,8118 East Peacock Lane East,Orange,92869,985000,3,2.5,1900.0
-242,8118 East Peacock Lane,Orange,92869,985000,3,2.5,1900.0
-243,6219 East Rocking Horse Way,Orange,92869,1199888,4,2.5,3045.0
-244,3416 East Barrington Drive,Orange,92869,825000,3,2,1786.0
-245,2409 East Coolidge Avenue,Orange,92867,935000,3,1.75,1431.0
-246,"1768 North Widdows Way, Unit 4",Orange,92865,425000,2,1.75,1055.0
-247,6016 East Hummingbird Court,Orange,92869,979500,4,3,2073.0
-248,2344 East Locust Avenue,Orange,92867,799000,3,2,1353.0
-249,"148 North Mine Canyon Road, Unit K",Orange,92869,405000,1,1,738
-250,"2000 West Palmyra Avenue, Unit 25",Orange,92868,575000,3,2.5,1387.0
-251,535 East Culver Avenue,Orange,92866,950000,3,2,1188.0
-252,1860 North Nordic Place,Orange,92865,1149000,5,3,2563.0
-253,636 North Noble Street,Orange,92869,840000,3,2,1410.0
-254,745 North Hewes Street,Orange,92869,895000,3,2.75,2416.0
-255,364 Molokai Drive,Placentia,92870,529000,2,2,1300.0
-256,852 Chicago Avenue,Placentia,92870,950000,3,2.5,2291.0
-257,"150 Southampton Way, Unit 17",Placentia,92870,419999,2,1,794
-258,408 Barry Place,Placentia,92870,949800,4,3,2007.0
-259,1570 East Hastings Way,Placentia,92870,710000,3,2.5,1366.0
-260,413 Rospaw Way,Placentia,92870,869900,3,1.75,1625.0
-261,404 Swail Drive,Placentia,92870,975000,3,2,2222.0
-262,406 Massachusetts Lane,Placentia,92870,780000,4,3,2048.0
-263,5378 Saratoga Street,Placentia,92870,799000,3,2,1148.0
-264,1138 North Vecino Lane,Placentia,92870,889000,5,3.75,2339.0
-265,"245 Sheffield Street, Unit 67",Placentia,92870,449000,2,1,884
-266,805 Berkenstock Circle,Placentia,92870,950000,4,2.5,2327.0
-267,313 New Jersey Lane,Placentia,92870,715000,3,2,1601.0
-268,"340 Lakepark Drive, Unit 5",Placentia,92870,185000,2,2,1440.0
-269,1268 Antigua Circle,Placentia,92870,649000,3,1.75,1350.0
-270,163 Saddle Drive,Placentia,92870,899900,3,2.5,2306.0
-271,1546 Spruce Street,Placentia,92870,748000,3,3.5,2024.0
-272,806 Gutmann Lane,Placentia,92870,879000,4,2.5,1839.0
-273,"212 South Kraemer Boulevard, Unit 2508",Placentia,92870,380000,2,1.75,929
-274,"2017 Orchard Drive, Unit 10",Placentia,92870,589500,3,2.5,1745.0
-275,"812 North Angelina Drive, Unit 812",Placentia,92870,725000,3,2.5,2327.0
-276,13 Via Almeria,San Clemente,92673,589000,2,2,1351.0
-277,"515 Monterey Lane, Unit R8",San Clemente,92672,1100000,2,1.75,1165.0
-278,4100 Calle Isabella,San Clemente,92672,65000000,9,11.75,15000.0
-279,"1010 South El Camino Real, Unit 208",San Clemente,92672,1985000,3,3,1939.0
-280,4 Via Chapala,San Clemente,92673,2595000,4,3.25,3306.0
-281,"1010 South El Camino Real, Unit 207",San Clemente,92672,1795000,2,2.5,1977.0
-282,"1010 South El Camino Real, Unit 204",San Clemente,92672,1495000,2,2.5,1612.0
-283,408 Camino Flora Vista,San Clemente,92673,1268000,4,2.5,2414.0
-284,1616 South Ola Vista,San Clemente,92672,1475000,2,1.5,1197.0
-285,183 Avenida Baja,San Clemente,92672,865000,3,1.75,1560.0
-286,238 Avenida Monterey,San Clemente,92672,1460000,6,3,2688.0
-287,"2015 Via Concha, Unit 141",San Clemente,92673,679900,3,2,1254.0
-288,183 West Avenida Junipero,San Clemente,92672,1399000,2,2,1389.0
-289,918 Via De Angeles,San Clemente,92672,1299000,3,2,1864.0
-290,118 Via San Sebastian,San Clemente,92672,4450000,5,5.5,5130.0
-291,13 Calle Tamara,San Clemente,92673,3095000,5,5.5,5380.0
-292,10 Calle Clasico,San Clemente,92673,989000,4,2.5,2248.0
-293,1201 Via Visalia,San Clemente,92672,1275000,4,2.5,2501.0
-294,159 West Avenida Junipero,San Clemente,92672,2299000,4,2.5,3072.0
-295,27462 Paseo Arco Clave,San Juan Capistrano,92675,2150000,5,4.5,5800.0
-296,28339 Via Del Mar,San Juan Capistrano,92675,1198000,4,3,2418.0
-297,25622 Paseo De La Paz,San Juan Capistrano,92675,6150000,5,4.5,6225.0
-298,28800 Martingale Drive,San Juan Capistrano,92675,2900000,5,5.5,4408.0
-299,28631 Martingale Drive,San Juan Capistrano,92675,3200000,4,4.5,4521.0
-300,31555 Peppertree-Bend,San Juan Capistrano,92675,4388000,7,7,9012.0
-301,25677 Paseo De La Paz,San Juan Capistrano,92675,4695000,5,5.5,6150.0
-302,31432 La Calera Street,San Juan Capistrano,92675,849900,1,1,1016.0
-303,30761 Marbella Vista,San Juan Capistrano,92675,1750000,5,4.5,3807.0
-304,31531 Peppertree-Bend,San Juan Capistrano,92675,11200000,9,11,15883.0
-305,"32221 Alipaz Street, Unit 244",San Juan Capistrano,92675,320000,1,1,764
-306,28371 Via Del Sereno,San Juan Capistrano,92675,1399900,4,3,2920.0
-307,30111 Saddleridge Drive,San Juan Capistrano,92675,2679000,5,4.5,5636.0
-308,27525 Paseo Mimosa,San Juan Capistrano,92675,819000,4,2,1486.0
-309,33601 Paseo Eternidad,San Juan Capistrano,92675,2499000,3,3.5,3230.0
-310,"32371 Alipaz, Unit 28",San Juan Capistrano,92675,289000,2,2,-
-311,"32371 Alipaz Street, Unit 28",San Juan Capistrano,92675,289000,2,2,-
-312,31242 Via Cuartel,San Juan Capistrano,92675,1285000,5,2.5,2978.0
-313,"0 Hot Springs Cy, Unit 7",San Juan Capistrano,92675,260000,1,1,780
-314,27533 Via Ramona,San Juan Capistrano,92675,850000,3,2,1486.0
-315,2102 Poinsettia Street North,Santa Ana,92706,799000,3,1,1305.0
-316,1917 West Myrtle Street,Santa Ana,92703,2195000,12,6,4500.0
-317,2514 South Shelton Street,Santa Ana,92707,769000,3,2,1215.0
-318,"2521 West Sunflower Avenue, Unit P12",Santa Ana,92704,360000,2,2,878
-319,2001 West Adams Street,Santa Ana,92704,799998,4,1.75,1620.0
-320,2611 North Olive Lane,Santa Ana,92706,994900,3,2,1975.0
-321,"1818 Cedar Street, Unit A",Santa Ana,92707,1199000,8,6,-
-322,"1404 North Tustin Avenue, Unit E2",Santa Ana,92705,510000,2,1.75,1200.0
-323,210 West Alton Avenue,Santa Ana,92707,965000,4,2.5,2490.0
-324,"4201 West 5th Street, Unit 302",Santa Ana,92703,370000,2,1,773
-325,2016 West 15th Street,Santa Ana,92706,759900,3,2,1695.0
-326,233 Jeanette Lane,Santa Ana,92705,680000,3,3.5,1829.0
-327,2140 East Wellington Avenue,Santa Ana,92701,699999,3,2,1531.0
-328,726 South Kilson Drive,Santa Ana,92701,649900,3,1,1216.0
-329,"206 South Sullivan Street, Unit 77",Santa Ana,92704,150000,3,2,1320.0
-330,"206 South Sullivan, Unit 77",Santa Ana,92704,150000,3,2,1320.0
-331,"1400 West Warner Avenue, Unit 35",Santa Ana,92704,325000,2,1,837
-332,"2827 South Fairview Street, Unit O",Santa Ana,92704,349000,1,1,621
-333,"3957 West McFadden Avenue, Unit D",Santa Ana,92704,335000,2,1,838
-334,239 7th Street,Seal Beach,90740,1495000,3,2,1724.0
-335,"13301 El Dorado Drive, Unit 204I",Seal Beach,90740,247000,2,0.75,800
-336,"1320 Kenwood Road, Unit M7158K",Seal Beach,90740,320000,2,0.75,750
-337,13171 St Andrews Dr M7-154l,Seal Beach,90740,339500,2,1,1100.0
-338,"13260 Fairfield Lane, Unit 171I",Seal Beach,90740,295000,2,1,1100.0
-339,4556 Guava Avenue,Seal Beach,90740,1179000,4,2.5,2466.0
-340,"1121 Northwood Road, Unit 237F",Seal Beach,90740,364900,2,1,1150.0
-341,4473 Candleberry Avenue,Seal Beach,90740,1229000,3,2.5,2331.0
-342,"12200 Montecito Road, Unit B301",Seal Beach,90740,409999,1,1,729
-343,3610 Teaberry Circle,Seal Beach,90740,1175950,4,2.5,2748.0
-344,"1542 Merion Way, Unit 35D M2",Seal Beach,90740,189000,1,1,800
-345,1 Anderson,Seal Beach,92649,4950000,4,3.25,2828.0
-346,154 12th Street,Seal Beach,90740,2150000,3,2.5,2878.0
-347,"13048 Del Monte Drive, Unit 42N",Seal Beach,90740,289000,2,1.75,1200.0
-348,"1640 Glenview Road, Unit 76G",Seal Beach,90740,479500,2,1.25,1100.0
-349,"13451 St Andrews M5, Unit 124K",Seal Beach,90740,425000,2,2,1000.0
-350,1 Anderson,Seal Beach,90740,4950000,4,3.25,2828.0
-351,1705 Bolsa Avenue,Seal Beach,90740,1300000,3,1.75,2268.0
-352,1307 Electric Avenue,Seal Beach,90740,1559000,3,2,1081.0
-353,"13401 St Andrews Drive, Unit 128J M6",Seal Beach,90740,299000,2,1,760
-354,"13250 Fairfield Lane, Unit 173I",Seal Beach,90740,289000,2,1,900
-355,8008 Torino,Stanton,90680,645000,3,3,1728.0
-356,"7121 West Cerritos Avenue, Unit 5",Stanton,90680,410000,2,1,843
-357,7320 West Cerritos Avenue,Stanton,90680,1600000,9,8,7841.0
-358,12920 Sycamore Street,Stanton,92841,1650000,8,4,3752.0
-359,"7907 West Cerritos Avenue, Unit 23",Stanton,90680,499900,2,2.5,1267.0
-360,11056 Irwin Drive,Stanton,90680,525000,4,1.75,1348.0
-361,"12101 Dale, Unit 71",Stanton,90680,119000,2,1,1440.0
-362,8100 West Cerritos Avenue,Stanton,90680,1975000,12,12,5202.0
-363,"12101 Dale Avenue, Unit 71",Stanton,90680,119000,2,1.75,1440.0
-364,7132 Marshall Way,Stanton,90680,494888,3,1.5,1120.0
-365,12815 Sycamore Street,Stanton,92841,730000,3,2,1131.0
-366,12302 Santa Rosalia Street,Stanton,92841,897000,4,2,1281.0
-367,"10800 Dale Avenue, Unit 715",Stanton,90680,159900,3,2,-
-368,"3050 West Ball Road, Unit 118",Stanton,90680,145000,3,2,1510.0
-369,10531 Carrotwood Way,Stanton,90680,545000,3,1.5,1232.0
-370,"8681 Katella Avenue, Unit 880",Stanton,90680,170000,3,2,1275.0
-371,7072 Kermore Lane,Stanton,90680,719000,3,2,1302.0
-372,8932 Lola Avenue,Stanton,92804,695000,3,2,1526.0
-373,8041 Hynes Road,Stanton,90680,895000,3,2.5,1694.0
-374,"7887 Lampson Avenue, Unit 36",Stanton,92841,119900,3,2,920
-375,18590 Warren Avenue,Tustin,92780,1148800,4,2,2344.0
-376,2354 Paseo Circulo,Tustin,92782,720000,2,2.25,1305.0
-377,"2960 Champion Way, Unit 1007",Tustin,92782,435000,1,1,774
-378,12549 Wedgwood Circle,Tustin,92780,815000,3,2.5,1481.0
-379,1877 Harvest Circle,Tustin,92780,825000,3,2.5,1865.0
-380,14091 Del Amo Avenue,Tustin,92780,799500,3,2,1416.0
-381,2886 Player Lane,Tustin,92782,749900,3,2.5,1724.0
-382,"2960 Champion Way, Unit 1312",Tustin,92782,580000,2,2,1047.0
-383,12185 Glines Court,Tustin,92782,1949000,4,4,4061.0
-384,17602 Orange Tree Lane,Tustin,92780,1495000,4,2.25,2607.0
-385,2887 Player Lane,Tustin,92782,789900,4,2.5,1848.0
-386,"15352 Williams Street, Unit PORTOLA 10",Tustin,92780,170000,4,2,-
-387,"645 West 6th Street, Unit B",Tustin,92780,450000,2,1.5,1092.0
-388,"15352 Williams Street, Unit PORTOLA 104",Tustin,92780,170000,4,2,-
-389,"15352 Williams Street, Unit CORONADO 1",Tustin,92780,160000,3,2,-
-390,12805 Crawford Drive,Tustin,92782,1388000,4,3,2925.0
-391,"15352 Williams Street, Unit CORONADO 101",Tustin,92780,160000,3,2,-
-392,1722 Green Meadow Avenue,Tustin,92780,925000,4,2,2050.0
-393,49 Malaga Street,Tustin,92780,315000,3,1.75,1568.0
-394,"2960 Champion Way, Unit 1815",Tustin,92782,444900,1,1,740
-395,9491 Lemon Street,Villa Park,92861,1649999,6,5.5,5058.0
-396,9082 Loma Street,Villa Park,92861,3295000,5,5.5,6957.0
-397,17932 Lincoln Street,Villa Park,92861,1649000,5,3,3135.0
-398,19222 Valley Drive,Villa Park,92861,3995000,6,8,9004.0
-399,6871 Hood Drive,Westminster,92683,815800,4,2,1684.0
-400,5051 Princeton Avenue,Westminster,92683,899000,4,2,1636.0
-401,14279 Baker Street,Westminster,92683,635000,3,2,1312.0
-402,6642 Trask Avenue,Westminster,92683,849500,4,2,1177.0
-403,13202 Hoover Street,Westminster,92683,165000,3,2,1248.0
-404,"15300 Magnolia Street, Unit 55",Westminster,92683,99000,2,2,-
-405,6462 Walt Street,Westminster,92683,700800,3,1,991
-406,"10200 Bolsa Avenue, Unit 137",Westminster,92683,100000,3,2,1440.0
-407,9821 Cheshire Avenue,Westminster,92683,1100000,5,3,2328.0
-408,"15621 Beach Boulevard, Unit 75",Westminster,92683,90000,2,2,1440.0
-409,"14081 Magnolia, Unit 181",Westminster,92683,71800,3,2,-
-410,7415 Hazard Avenue,Westminster,92683,550000,1,1,480
-411,13202 Hoover,Westminster,92683,165000,3,2,1248.0
-412,"15621 Beach, Unit 157",Westminster,92683,80000,2,2,-
-413,"15621 Beach Boulevard, Unit 157",Westminster,92683,80000,2,2,-
-414,"14081 Magnolia Street, Unit 181",Westminster,92683,71800,3,2,-
-415,13800 Milton Avenue,Westminster,92683,4850000,58,58,31426.0
-416,6681 Sequoia Drive,Westminster,92683,848000,4,2,1683.0
-417,7042 Fenway Drive,Westminster,92683,4275000,20,10,9630.0
-418,6166 Vía Nietos,Yorba Linda,92887,689900,2,2,1529.0
-419,4235 Citrus Circle,Yorba Linda,92886,1599000,4,2.5,2679.0
-420,4564 Jamestowne,Yorba Linda,92886,535000,3,1.5,1190.0
-421,21270 Vía Del Lobo,Yorba Linda,92887,654000,3,2,1342.0
-422,"23486 Cambridge Road, Unit 295",Yorba Linda,92887,495000,2,2,963
-423,5911 Lynnbrook Plaza,Yorba Linda,92886,849000,4,2,1665.0
-424,5911 Lynnbrook,Yorba Linda,92886,849000,4,2,1665.0
-425,17545 Edgewood Lane,Yorba Linda,92886,1650000,4,3.5,3845.0
-426,20465 Chianti Court,Yorba Linda,92886,1599000,5,5.5,3717.0
-427,"19858 Ridge Manor Way, Unit 28",Yorba Linda,92886,520000,3,1.75,1062.0
-428,19950 Winners Circle,Yorba Linda,92886,3000000,5,5.5,5834.0
-429,3845 Singingwood Drive,Yorba Linda,92886,1399000,4,2.75,2724.0
-430,"16901 Lake Ridge Way, Unit 203",Yorba Linda,92886,170000,2,2,1368.0
-431,"20011 Pineville Court, Unit 54",Yorba Linda,92886,489000,2,1,842
-432,19366 Shetland Lane,Yorba Linda,92886,2488000,6,6.5,5870.0
-433,4390 Camphor Avenue,Yorba Linda,92886,1375000,4,2,2157.0
-434,25505 Palermo Way,Yorba Linda,92887,830000,3,2.5,1625.0
-435,4598 Avocado Avenue,Yorba Linda,92886,1575000,4,3.5,3082.0
-436,"21 Sage, Unit 44",Irvine,92604,619900,3,1.5,1109.0
-437,262 Rockefeller,Irvine,92612,1249000,3,3.5,2349.0
-438,4811 Lori Ann Lane,Irvine,92604,948000,3,2,1623.0
-439,2 Sunpeak,Irvine,92603,3680000,5,3.5,6113.0
-440,"5200 Irvine Boulevard, Unit 44",Irvine,92620,480000,2,2,2000.0
-441,"315 Paradiso, Unit 18",Irvine,92602,1832000,4,3,2494.0
-442,"317 Paradiso, Unit 19",Irvine,92602,1949000,4,4,2753.0
-443,88 Rembrandt,Irvine,92620,1050000,3,2.5,1685.0
-444,12 Gillman Street,Irvine,92612,1388000,5,3,2900.0
-445,7 Monte Carlo,Irvine,92614,1099900,3,2.5,1784.0
-446,194 Harringay,Irvine,92618,735000,2,2.5,1756.0
-447,1376 Scholarship,Irvine,92612,430000,1,1,610
-448,139 Carmine,Irvine,92618,1089000,3,3,2473.0
-449,43 Spanish Lace,Irvine,92620,589900,1,1.5,1099.0
-450,68 Chantilly,Irvine,92620,899888,3,3,1479.0
-451,"19 Wildwood, Unit 6",Irvine,92604,499000,2,1,928
-452,12 Orchard,Irvine,92618,725000,3,2,1133.0
-453,797 Benchmark,Irvine,92618,1199000,4,4,2773.0
-454,"107 Linda Vista, Unit 14",Irvine,92618,1423631,3,2.5,1860.0
-455,109 Tearose,Irvine,92603,1948000,4,3.5,2646.0
-456,25 Silverado,Irvine,92618,814900,3,3,1653.0
-457,25821 Serenata Drive,Mission Viejo,92691,1075000,3,2.5,1975.0
-458,25625 Budapest Avenue,Mission Viejo,92691,799000,3,2,1575.0
-459,24761 Doria Avenue,Mission Viejo,92691,975000,4,3,2837.0
-460,24272 Via San Clemente,Mission Viejo,92692,1130000,4,2,2230.0
-461,7 Copious Lane,Mission Viejo,92694,1600000,5,4.5,4201.0
-462,"26182 La Real, Unit A385",Mission Viejo,92691,317900,0,1,441
-463,184 Valley View Terrace,Mission Viejo,92692,679800,3,2.5,1364.0
-464,25095 Amberwood,Mission Viejo,92692,1175000,5,3,2427.0
-465,28451 Zurita,Mission Viejo,92692,889000,4,2,1472.0
-466,9 Altezza Drive,Mission Viejo,92692,1313900,4,3,2933.0
-467,26622 Castile Lane,Mission Viejo,92691,1805500,5,3,3150.0
-468,25861 Malia Court,Mission Viejo,92691,768000,3,2.25,1905.0
-469,24551 Chrisanta Drive,Mission Viejo,92691,970000,3,2,1375.0
-470,18 Harveston,Mission Viejo,92692,999900,4,2.75,2000.0
-471,"26372 Via Roble, Unit 17",Mission Viejo,92691,535000,3,2,1160.0
-472,27782 Gleneagles,Mission Viejo,92692,740000,3,2.5,1782.0
-473,222 Valley View Terrace,Mission Viejo,92692,663000,3,2.5,1352.0
-474,23891 Rosehedge Street,Mission Viejo,92691,799000,4,2,1875.0
-475,27062 Benidorm,Mission Viejo,92692,850000,3,2,1472.0
-476,21612 Criptana,Mission Viejo,92692,898000,4,2.5,2033.0
-477,28385 Pacheco,Mission Viejo,92692,629900,2,2,1279.0
-478,33291 Bremerton Street,Dana Point,92629,1860000,4,3,3487.0
-479,9 Tirremia Drive,Dana Point,92629,2000000,4,4,3193.0
-480,15 Veracruz,Dana Point,92629,1100000,3,2.5,2151.0
-481,33895 Malaga Drive,Dana Point,92629,1200000,3,2,1140.0
-482,33661 Shackleton Isle,Dana Point,92629,4650000,4,5,5092.0
-483,33661 Shackleton,Dana Point,92629,4650000,4,5,5092.0
-484,23965 Leeward Drive,Dana Point,92629,2495000,3,2.5,2243.0
-485,31 Strand Beach Drive,Dana Point,92629,22500000,4,5,7852.0
-486,17 Beach View Avenue,Dana Point,92629,18250000,5,8,8329.0
-487,"34122 Selva Road, Unit 279",Dana Point,92629,895000,2,2,873
-488,52 Tennis Villas Drive,Dana Point,92629,1189500,2,2,1357.0
-489,33671 Shackleton Isle,Dana Point,92629,4200000,4,2.5,2850.0
-490,33 Monarch Bay Drive,Dana Point,92629,20995000,5,6,10900.0
-491,"52 Corniche Drive, Unit H",Dana Point,92629,499900,1,1,755
-492,32811 Shipside Drive,Dana Point,92629,1149900,4,2.5,2590.0
-493,27042 Calle Dolores,Dana Point,92624,2695000,4,3.25,3150.0
-494,40 St Michael,Dana Point,92629,1350000,3,2.5,1955.0
-495,34055 Crystal Lantern,Dana Point,92629,1500000,3,3,2100.0
-496,21 St John,Dana Point,92629,1175000,3,2.5,2000.0
-497,"34264 Camino Capistrano, Unit 308",Dana Point,92624,309999,1,1,490
-498,31022 Canterbury Place,Laguna Niguel,92677,1495000,5,3,3404.0
-499,28711 Springfield Drive,Laguna Niguel,92677,1385000,3,2,2048.0
-500,31411 Isle Vista,Laguna Niguel,92677,1250000,3,2,1626.0
-501,34 Vista Montemar,Laguna Niguel,92677,3000000,4,4,4047.0
-502,29482 Pointe Royale,Laguna Niguel,92677,1099000,4,2.5,2340.0
-503,"107 Dover Place, Unit 107",Laguna Niguel,92677,549900,3,2,1206.0
-504,28611 Breckenridge Drive,Laguna Niguel,92677,1549000,4,2.75,2647.0
-505,22802 Mantanza Drive,Laguna Niguel,92677,995000,3,2,1642.0
-506,2 Belaire,Laguna Niguel,92677,2599000,5,4.5,3690.0
-507,25112 Monte Verde Drive,Laguna Niguel,92677,1179000,5,2.5,2055.0
-508,29822 Stordahl Circle,Laguna Niguel,92677,1399900,5,3.5,2480.0
-509,29842 Hiddenwood,Laguna Niguel,92677,1599000,4,3.5,3011.0
-510,31154 Flying Cloud Drive,Laguna Niguel,92677,1450000,3,2,1800.0
-511,"31335 East Nine Drive, Unit 47A",Laguna Niguel,92677,645000,2,2,1122.0
-512,29412 Castle Road,Laguna Niguel,92677,989000,4,2.5,2181.0
-513,28842 Placida Avenue,Laguna Niguel,92677,1225000,4,2,1462.0
-514,"30902 Club House Drive, Unit 25G",Laguna Niguel,92677,549000,2,2,1024.0
-515,4 Goodwin Place,Laguna Niguel,92677,1779000,5,4,3235.0
-516,"23 Brighton Place, Unit 23",Laguna Niguel,92677,499900,2,1.25,823
-517,3 Andover Court,Laguna Niguel,92677,4895000,5,5.5,6000.0
-518,25042 Buckskin Drive,Laguna Hills,92653,1900000,3,2.5,3597.0
-519,"23442 Caminito Salado, Unit 351",Laguna Hills,92653,572000,3,2,1460.0
-520,25881 Cedarbluff,Laguna Hills,92653,1551000,4,3,3125.0
-521,24942 Hendon Street,Laguna Hills,92653,899000,4,2,1867.0
-522,26208 Summerhill Lane,Laguna Hills,92653,689500,2,2.5,1356.0
-523,"25782 Via Lomas, Unit 85",Laguna Hills,92653,489000,3,1,1173.0
-524,22445 Caminito Grande,Laguna Hills,92653,585000,3,2,1225.0
-525,22072 Caminito Vino,Laguna Hills,92653,619000,3,2.5,1213.0
-526,"24433 Chancellor Court, Unit 270",Laguna Hills,92653,549000,2,2.5,1288.0
-527,"23301 Ridge Rte Drive, Unit 129",Laguna Hills,92653,158800,2,2,1500.0
-528,26032 Buena Vista Court,Laguna Hills,92653,1200000,4,3,3152.0
-529,"23301 Ridge Rte Drive, Unit 42",Laguna Hills,92653,199000,3,2,1512.0
-530,25711 Padua Drive,Laguna Hills,92653,880000,3,2,1325.0
-531,26131 Red Corral Road,Laguna Hills,92653,1999900,5,3.5,3435.0
-532,27441 Maverick Circle,Laguna Hills,92653,1795000,4,2.75,3000.0
-533,25992 Rich Springs Circle,Laguna Hills,92653,1788888,4,3,2865.0
-534,25731 Bucklestone Drive,Laguna Hills,92653,2725000,6,5.5,6799.0
-535,24891 Los Gatos Drive,Laguna Hills,92653,1299880,5,3.5,3138.0
-536,25181 Barents,Laguna Hills,92653,1100000,4,3,3195.0
-537,24952 Hon Avenue,Laguna Hills,92653,1075000,5,2,2434.0
-538,"23235 Caminito Andreta, Unit 48",Laguna Hills,92653,580000,3,2,1200.0
-539,22 Touraine Place,Lake Forest,92610,899900,4,3,1910.0
-540,25612 Hazelnut Lane,Lake Forest,92630,965000,4,2.5,2140.0
-541,24932 Calle Vecindad,Lake Forest,92630,950000,4,3,2050.0
-542,21466 Kirkwall Lane,Lake Forest,92630,849900,3,2.5,1524.0
-543,24061 La Rosa Drive,Lake Forest,92630,959900,4,3.5,2700.0
-544,108 Wild Rose,Lake Forest,92630,769900,3,2.5,1537.0
-545,34 Blanco,Lake Forest,92610,1249000,5,3,2550.0
-546,33 Marseille Way,Lake Forest,92610,1249000,4,3.5,2810.0
-547,27001 Brighton Lane,Lake Forest,92630,1195000,4,2.5,2474.0
-548,"23242 Orange Avenue, Unit 3",Lake Forest,92630,369000,2,1,834
-549,19501 Highridge Way,Lake Forest,92679,799000,3,2.5,1653.0
-550,24625 Vía Tequila,Lake Forest,92630,925000,4,2.5,2124.0
-551,235 Siena,Lake Forest,92630,898000,4,2.5,1877.0
-552,25121 Shaver Lake Circle,Lake Forest,92630,989000,4,3,2546.0
-553,6 Banyan,Lake Forest,92610,959900,4,2.5,2156.0
-554,405 Echo Blue,Lake Forest,92610,824999,3,3,1693.0
-555,24062 Gemwood Drive,Lake Forest,92630,850000,3,2,1144.0
-556,61 Wild Rose,Lake Forest,92630,660000,2,2,1225.0
-557,"24001 Muirlands Boulevard, Unit 398",Lake Forest,92630,268000,3,2,1608.0
-558,"250 Calle Aragon, Unit C",Laguna Woods,92637,468800,2,2,1000.0
-559,2358-c Via Mariposa,Laguna Woods,92637,280000,2,1.75,1000.0
-560,"803 Ronda Mendoza, Unit O",Laguna Woods,92637,459000,2,2,1209.0
-561,2358-c Via Mariposa East,Laguna Woods,92637,280000,2,1.75,1000.0
-562,2358 Via Mariposa East,Laguna Woods,92637,280000,2,2,1000.0
-563,"2150 Ronda Granada, Unit D",Laguna Woods,92637,428800,2,2,1324.0
-564,"711 Avenida Majorca, Unit B",Laguna Woods,92637,375000,2,1.75,1300.0
-565,"845 Ronda Mendoza, Unit Q",Laguna Woods,92637,235000,2,1.75,1009.0
-566,"55 Calle Aragon, Unit H",Laguna Woods,92637,190000,2,1.75,1009.0
-567,"2390 Via Mariposa W, Unit 1H",Laguna Woods,92677,525000,2,1.5,1195.0
-568,"565 Avenida Sevilla, Unit A",Laguna Woods,92637,269000,2,1,1000.0
-569,"3367 Punta Alta, Unit 3C",Laguna Woods,92637,378888,2,1.5,894
-570,"2355 Via Mariposa East, Unit 3D",Laguna Woods,92637,425000,2,2,1199.0
-571,"2390 Via Mariposa W, Unit 1H",Laguna Woods,92637,525000,2,1.5,1195.0
-572,"3417 Punta Alta, Unit A",Laguna Woods,92637,459000,2,2,1188.0
-573,"2191 Via Mariposa East, Unit B",Laguna Woods,92637,299000,2,1.75,1020.0
-574,"2031 Via Mariposa East, Unit H",Laguna Woods,92637,279900,2,1,890
-575,"3252 San Amadeo, Unit N",Laguna Woods,92637,359000,2,1.75,1079.0
-576,"4026 Calle Sonora Este, Unit 3C",Laguna Woods,92637,499000,2,2,1189.0
-577,"2102 Ronda Granada, Unit B",Laguna Woods,92637,199000,2,1.75,1009.0
-578,"24055 Paseo Del Lago, Unit 760",Laguna Woods,92637,125000,2,2,1200.0
-579,100 Vía Contento,Rancho Santa Margarita,92688,525000,2,2,1170.0
-580,31951 Magpie Street,Rancho Santa Margarita,92679,1399900,4,3.75,3732.0
-581,8 Saltillo,Rancho Santa Margarita,92688,875000,3,2.5,1605.0
-582,14 Andalusia,Rancho Santa Margarita,92688,784900,4,3,1851.0
-583,100 Seacountry Lane,Rancho Santa Margarita,92688,589000,2,2.5,1100.0
-584,64 Vía Lampara,Rancho Santa Margarita,92688,549900,2,2,1119.0
-585,20 Via Tranquila,Rancho Santa Margarita,92688,1690000,4,2.75,2750.0
-586,40 Las Castanetas,Rancho Santa Margarita,92688,875900,4,3,1670.0
-587,39 Vía Ermitas,Rancho Santa Margarita,92688,539900,2,2,1170.0
-588,11 Ibiza,Rancho Santa Margarita,92688,700000,3,2.5,1699.0
-589,11 Brisa Ribera,Rancho Santa Margarita,92688,449900,1,1,804
-590,31942 Pleasant Glen Road,Rancho Santa Margarita,92679,849900,3,2.5,1525.0
-591,7 Brisa Ribera,Rancho Santa Margarita,92688,429000,1,1,841
-592,15 Ceramica,Rancho Santa Margarita,92688,899900,4,2.5,1757.0
-593,28 Cll Serra,Rancho Santa Margarita,92688,1400888,4,3,2750.0
-594,16 Via Vison,Rancho Santa Margarita,92688,1248000,5,4,3481.0
-595,6 Oleander Lane,Rancho Santa Margarita,92688,819000,3,2.5,1397.0
-596,4 Anglesite,Rancho Santa Margarita,92688,901200,3,2.5,2004.0
-597,21361 Windstream Circle,Rancho Santa Margarita,92679,1299000,5,3,3251.0
-598,"200 Pasto Rico, Unit 77",Rancho Santa Margarita,92688,565000,2,2.5,1091.0
-599,56 Vía Pamplona,Rancho Santa Margarita,92688,429000,2,1,930
-600,11 Maple Drive,Aliso Viejo,92656,850000,3,2.5,1637.0
-601,4 Brownstone Way,Aliso Viejo,92656,739000,2,2.5,1598.0
-602,37 Tulare Drive,Aliso Viejo,92656,625000,2,2.5,1172.0
-603,"23412 Pacific Park Drive, Unit 2C",Aliso Viejo,92656,469000,2,2,1127.0
-604,12 Ovation Lane,Aliso Viejo,92656,685000,2,2,1538.0
-605,37 Colony Way,Aliso Viejo,92656,759900,3,2.5,1455.0
-606,"23412 Pacific Park Drive, Unit 12H",Aliso Viejo,92656,515000,2,2,1090.0
-607,96 Nightingale Drive,Aliso Viejo,92656,599900,2,2.5,1360.0
-608,31 Hawksmoor,Aliso Viejo,92656,948000,4,3,2165.0
-609,201 Cinnamon Teal,Aliso Viejo,92656,550000,2,2.5,1064.0
-610,23541 Los Adornos,Aliso Viejo,92656,585000,3,2,1240.0
-611,36 Golf Drive,Aliso Viejo,92656,1149900,3,3,2716.0
-612,"22681 Oak Grove, Unit 423",Aliso Viejo,92656,540000,2,2,1158.0
-613,156 Nightingale Drive,Aliso Viejo,92656,625900,2,2.5,1420.0
-614,38 Edmonton Place,Aliso Viejo,92656,915000,3,2.5,1799.0
-615,57 Promontory Park,Aliso Viejo,92656,650000,2,2.5,1360.0
-616,11 Coffeeberry,Aliso Viejo,92656,1218000,5,3,2748.0
-617,13 Windchime,Aliso Viejo,92656,679000,3,2.5,1499.0
+House_ID,House ID,Street,City,Zipcode,Listing Price ($),Number of Beds,Number of Baths,Square Footage
+0,0,7945 East Viewrim Drive,Anaheim,92808,595000,2,2.0,984.0
+1,1,1650 South Inez Way,Anaheim,92802,850000,4,3.0,2565.0
+2,2,1275 South Goldstone,Anaheim,92804,899000,4,2.5,2002.0
+3,3,324 East Leatrice Lane,Anaheim,92802,3795000,24,14.0,9036.0
+4,4,8425 East Meadowridge Street,Anaheim,92808,799900,3,2.0,1514.0
+5,5,1841 West Crestwood Lane,Anaheim,92804,1700000,10,6.0,5042.0
+6,6,1473 East Rosewood Avenue,Anaheim,92805,699000,3,2.0,1279.0
+7,7,1051 South Volterra Way,Anaheim,92808,577000,3,3.0,1181.0
+8,8,3325 West Rovigo Drive,Anaheim,92801,675000,4,3.5,1709.0
+9,9,745 North Clementine Street,Anaheim,92805,699900,3,2.0,1483.0
+10,10,"5803 East Mountain Loop Trail, Unit 26",Anaheim,92807,850000,3,2.5,1831.0
+11,11,1218 North Ralston Street,Anaheim,92801,749900,3,2.0,1245.0
+12,12,2404 East Briarvale Avenue,Anaheim,92806,830000,3,2.5,2024.0
+13,13,6516 East Paseo Diego,Anaheim,92807,749000,3,2.5,2312.0
+14,14,1509 West Chevy Chase Drive,Anaheim,92801,699900,4,2.0,1555.0
+15,15,"235 South Beach Boulevard, Unit 23",Anaheim,92804,224900,2,1.0,1056.0
+16,16,1151 North Voyager Lane,Anaheim,92801,754300,2,2.0,1621.0
+17,17,1834 West Gramercy Avenue,Anaheim,92801,1250000,8,4.0,3950.0
+18,18,1828 North Cymbal Way,Anaheim,92807,724900,3,2.0,1238.0
+19,19,3601 La Fiesta Drive,Brea,92823,1195000,4,3.0,2463.0
+20,20,755 Site Drive,Brea,92821,1018000,4,3.5,2200.0
+21,21,406 South Brea Boulevard,Brea,92821,769800,3,2.0,1317.0
+22,22,1908 Skywood Street,Brea,92821,775000,3,2.0,1511.0
+23,23,2101 Windbreak Circle,Brea,92821,975000,4,2.25,2526.0
+24,24,550 Linden Way,Brea,92821,775000,3,2.0,1377.0
+25,25,828 Carob Street,Brea,92821,824000,3,2.0,1691.0
+26,26,2043 Arbor Circle,Brea,92821,799000,3,2.0,1562.0
+27,27,875 Reynoso Parkway,Brea,92821,1050000,5,4.0,3645.0
+28,28,1584 Ironwood Court,Brea,92821,550888,4,3.0,1499.0
+29,29,449 Brea Hills Avenue,Brea,92823,1650000,4,3.5,4267.0
+30,30,419 Mallorca Lane,Brea,92823,640000,2,2.0,1046.0
+31,31,"1051 Site, Unit 276",Brea,92821,317500,3,2.0,1500.0
+32,32,"1051 Site Drive, Unit 276",Brea,92821,317500,3,2.0,1500.0
+33,33,626 Desert Canyon Road,Brea,92821,1295000,4,3.0,2768.0
+34,34,"632 East Birch Street, Unit B",Brea,92821,459999,2,1.5,1104.0
+35,35,8241 Celestial Avenue,Buena Park,90621,699900,3,2.25,1498.0
+36,36,8180 Orangethorpe Avenue,Buena Park,90621,659000,3,3.0,1519.0
+37,37,5632 Fox Hills Avenue,Buena Park,90621,1099000,4,2.25,2241.0
+38,38,5400 Brae Burn Place,Buena Park,90621,1500000,4,3.5,3646.0
+39,39,8101 San Heron Circle,Buena Park,90620,690000,3,2.0,1512.0
+40,40,6838 Mount Waterman Drive,Buena Park,90620,725000,3,1.75,1330.0
+41,41,7889 La Casa Way,Buena Park,90620,779000,3,1.75,1195.0
+42,42,5716 Spring Street,Buena Park,90621,690000,3,3.0,1486.0
+43,43,5972 Marshall Avenue,Buena Park,90621,799999,4,2.5,1919.0
+44,44,5417 Arrowhead Avenue,Buena Park,90621,685000,3,2.5,1598.0
+45,45,8720 Vestavia Avenue,Buena Park,90621,1100000,5,4.0,2625.0
+46,46,5764 Spring Street,Buena Park,90621,810000,4,3.5,2010.0
+47,47,6971 San Pasqual Circle,Buena Park,90620,849000,4,2.75,1927.0
+48,48,8112 San Heron Circle,Buena Park,90620,729000,3,1.75,1052.0
+49,49,8081 Page Street,Buena Park,90621,695000,3,3.0,2054.0
+50,50,7740 Granada Drive,Buena Park,90621,955900,4,2.5,1864.0
+51,51,8254 Orangethorpe Avenue,Buena Park,90621,720000,3,2.25,1647.0
+52,52,"309 Monte Vista Avenue, Unit A",Costa Mesa,92627,650000,2,1.0,1080.0
+53,53,3430 Hollow Brook Circle,Costa Mesa,92626,479999,3,2.0,1324.0
+54,54,944 Paularino Avenue,Costa Mesa,92626,899000,5,2.0,1666.0
+55,55,"2191 Harbor, Unit 27",Costa Mesa,92627,129000,4,2.0,1344.0
+56,56,"273 Costa Mesa Street, Unit A",Costa Mesa,92627,1600000,5,3.0,2352.0
+57,57,"1660 Whittier Avenue, Unit 6",Costa Mesa,92627,89500,1,1.0,377.0
+58,58,1606 Somerton Drive,Costa Mesa,92627,1097000,3,3.0,1896.0
+59,59,284 Flower Street,Costa Mesa,92627,2400000,4,3.0,3810.0
+60,60,2768 Tern Circle,Costa Mesa,92626,1749000,4,3.0,2978.0
+61,61,910 Powell Court,Costa Mesa,92626,700000,3,2.5,1804.0
+62,62,3133 Yukon Avenue,Costa Mesa,92626,1100000,3,2.0,1463.0
+63,63,979 Denver Drive,Costa Mesa,92626,899500,3,2.0,1834.0
+64,64,188 Merrill Place,Costa Mesa,92627,2099999,5,3.5,2598.0
+65,65,188 Merrill Place,Costa Mesa,92627,2099999,5,4.0,2598.0
+66,66,"260 Victoria Street, Unit F2",Costa Mesa,92627,549000,2,2.5,920.0
+67,67,1103 Corona Lane,Costa Mesa,92626,1075000,5,3.0,2263.0
+68,68,"2191 Harbor Boulevard, Unit 27",Costa Mesa,92627,129000,4,2.0,1344.0
+69,69,"340 East 20th Street, Unit A1",Costa Mesa,92627,1150000,3,2.5,1571.0
+70,70,"1845 Monrovia, Unit 76",Costa Mesa,92627,225000,3,2.0,1333.0
+71,71,4892 Park Avenue,Cypress,90630,1039000,4,2.5,2042.0
+72,72,6892 Jonathan Avenue,Cypress,90630,839999,4,2.0,1640.0
+73,73,10481 Barbara Anne Street,Cypress,90630,750000,3,2.0,1380.0
+74,74,4360 Larwin Avenue,Cypress,90630,499000,3,2.0,1056.0
+75,75,4850 Corso Circle,Cypress,90630,1380000,4,2.5,2519.0
+76,76,"4851 Bishop Street, Unit C",Cypress,90630,575000,2,2.0,1042.0
+77,78,10011 St Vincent Circle,Cypress,90630,829900,3,1.5,1205.0
+78,79,11599 Midway Drive,Cypress,90630,899000,5,3.0,2250.0
+79,80,10865 Rojo Court,Cypress,90720,1249900,3,3.0,2475.0
+80,81,9744 Paseo De Oro,Cypress,90630,689000,4,2.5,1748.0
+81,82,6892 Jonathan,Cypress,90630,839999,4,2.0,1640.0
+82,83,5450 Camp Street,Cypress,90630,700000,3,2.5,1549.0
+83,84,8812 Belday Street,Cypress,90630,845000,3,2.0,1258.0
+84,85,10231 Aqueduct Drive,Cypress,90630,950000,5,2.25,2086.0
+85,86,6546 Jaluit Street,Cypress,90630,895000,3,2.0,1400.0
+86,87,4656 Larwin Avenue,Cypress,90630,550000,3,1.0,989.0
+87,88,"9080 Bloomfield Avenue, Unit 100",Cypress,90630,85000,2,2.0,1500.0
+88,89,"9080 Bloomfield, Unit 100",Cypress,90630,85000,2,2.0,1500.0
+89,90,4911 Lemon Avenue,Cypress,90630,950000,3,2.0,2412.0
+90,91,7781 Herman Lane,La Palma,90623,1189000,6,3.5,2942.0
+91,92,8658 Santa Margarita Lane,La Palma,90623,585000,3,1.5,1315.0
+92,93,7682 Laurelwood Lane,La Palma,90623,955000,4,2.5,2088.0
+93,94,"820 Eucalyptus Lane, Unit 820",Fountain Valley,92708,245900,3,2.0,1404.0
+94,95,"16440 Atherton Mountain, Unit 33",Fountain Valley,92708,430000,2,2.0,1064.0
+95,96,"17200 Newhope Street, Unit 236",Fountain Valley,92708,458000,2,2.0,1300.0
+96,97,9056 Crocus Avenue,Fountain Valley,92708,1189000,4,2.5,2268.0
+97,98,"17200 Newhope Street, Unit 39",Fountain Valley,92708,575000,4,4.0,1680.0
+98,99,18743 Palm Street,Fountain Valley,92708,2799888,9,7.0,4500.0
+99,100,16036 Basil Street,Fountain Valley,92708,1300000,4,2.5,2268.0
+100,101,10173 Pike Avenue,Fountain Valley,92708,2599000,8,6.0,4345.0
+101,104,9367 Siskin Avenue,Fountain Valley,92708,1398000,8,6.5,4883.0
+102,105,18511 Callens Circle,Fountain Valley,92708,1149000,5,3.0,2362.0
+103,106,9643 Ellis Avenue,Fountain Valley,92708,939000,3,2.0,1663.0
+104,107,"17200 Newhope Street, Unit 39",Fountain Valley,92708,575000,2,2.0,1680.0
+105,108,108 Pigeon Lane,Fountain Valley,92708,159000,3,2.0,1512.0
+106,109,106 Myna Lane,Fountain Valley,92708,279000,3,2.0,1529.0
+107,110,"17200 Newhope Street, Unit 217",Fountain Valley,92708,449999,2,2.0,1040.0
+108,111,210 Crow Lane,Fountain Valley,92708,137000,3,2.0,1200.0
+109,112,11831 Dogwood Avenue,Fountain Valley,92708,899999,3,2.0,1278.0
+110,113,318 Napa Court,Fullerton,92833,975000,4,3.0,2160.0
+111,114,2713 Deerpark,Fullerton,92835,815000,3,2.0,1452.0
+112,115,2529 West Flower Avenue,Fullerton,92833,789000,4,3.0,1861.0
+113,116,812 Glenwood Terrace,Fullerton,92832,575000,2,1.5,1563.0
+114,117,2309 East Wilshire Avenue,Fullerton,92831,929900,4,2.5,2050.0
+115,118,1111 Sudene Avenue,Fullerton,92831,650000,3,1.5,1177.0
+116,119,605 West Avenue,Fullerton,92832,749000,4,2.0,1390.0
+117,120,"244 Cedar Hill North, Unit 244",Fullerton,92838,499999,2,2.0,1910.0
+118,121,"244 Cedar Hill, Unit 244",Fullerton,92838,499999,2,2.0,1910.0
+119,122,3027 Madison Avenue,Fullerton,92831,500000,2,1.5,1210.0
+120,123,880 North Ford Avenue,Fullerton,92832,1338000,5,3.0,2863.0
+121,124,1243 Cranbrook Place,Fullerton,92833,929000,4,2.5,2001.0
+122,125,2208 El Rancho Vista,Fullerton,92833,1050000,5,3.0,2187.0
+123,126,1383 Canterbury Lane,Fullerton,92831,999000,3,2.0,1958.0
+124,127,1607 Sunset Lane,Fullerton,92833,899000,3,2.0,1772.0
+125,128,1810 Chilton Court,Fullerton,92833,920000,4,2.5,1875.0
+126,129,327 West Knepp Avenue,Fullerton,92832,680800,3,2.0,1475.0
+127,130,3744 North Hermosa Place,Fullerton,92835,1968000,7,4.25,5053.0
+128,131,3917 Aragon Place,Fullerton,92835,1200000,3,1.75,2385.0
+129,132,"2900 Madison Avenue, Unit B41",Fullerton,92831,450000,2,1.75,943.0
+130,133,14101 Deanann Place,Garden Grove,92843,859000,4,2.0,1662.0
+131,134,12152 Bluebell Avenue,Garden Grove,92840,749999,4,2.0,1330.0
+132,135,11371 Kathy Lane,Garden Grove,92840,675000,3,2.0,1133.0
+133,136,11212 Clarissa Street,Garden Grove,92840,770000,5,2.0,1720.0
+134,137,12926 Newhope Street,Garden Grove,92840,569900,2,1.5,1392.0
+135,138,6846 Citriadora Court,Garden Grove,92845,537000,3,2.5,1454.0
+136,139,"12836 Palm Street, Unit 3",Garden Grove,92840,600000,4,3.5,1725.0
+137,140,"12219 Chapman Avenue, Unit 3",Garden Grove,92840,525000,3,2.5,1300.0
+138,141,12920 Sycamore Street,Garden Grove,92841,1650000,8,4.0,3752.0
+139,142,13232 Pinto Road,Garden Grove,92843,870000,4,2.5,2233.0
+140,143,8571 Davmor Avenue,Garden Grove,92841,875000,4,2.5,1857.0
+141,144,12451 Nutwood Street,Garden Grove,92840,899000,3,2.75,1663.0
+142,145,14102 Buena Street,Garden Grove,92843,1999888,8,8.0,3800.0
+143,146,12448 Lambert Circle,Garden Grove,92841,748000,3,2.0,1365.0
+144,147,13351 Jessica Drive,Garden Grove,92843,799000,3,1.0,
+145,148,"9924 11th Street, Unit A13",Garden Grove,92844,424900,2,1.75,819.0
+146,149,12692 Adrian Circle,Garden Grove,92840,690000,3,2.0,1553.0
+147,150,13142 Palm Street,Garden Grove,92843,780000,3,1.0,929.0
+148,151,10819 Westminster Avenue,Garden Grove,92843,569000,2,2.0,1349.0
+149,152,6971 Stanford Avenue,Garden Grove,92845,775000,3,1.75,1335.0
+150,153,9702 Allison Circle,Huntington Beach,92646,1695000,4,3.0,2370.0
+151,154,21891 Seacrest Lane,Huntington Beach,92646,1730000,5,3.0,2520.0
+152,155,9191 Regatta Drive,Huntington Beach,92646,1199999,5,2.0,2064.0
+153,156,615 7th Street,Huntington Beach,92648,1999000,4,4.0,3054.0
+154,157,"8162 Cape Hope Circle, Unit 202",Huntington Beach,92646,699000,2,2.0,1248.0
+155,158,"1200 Pacific Coast Highway, Unit 108",Huntington Beach,92648,549000,1,1.0,781.0
+156,159,9741 Melinda Circle,Huntington Beach,92646,1949000,4,3.0,2370.0
+157,160,606 Goldenwest Street,Huntington Beach,92648,1725000,3,3.5,3071.0
+158,161,19874 Deep Harbor Drive,Huntington Beach,92648,1095000,5,3.0,2485.0
+159,162,1932 Lake Street,Huntington Beach,92648,1549000,4,3.0,2969.0
+160,163,8473 Hibiscus Circle,Huntington Beach,92646,1699000,5,5.5,4200.0
+161,164,19056 Stonehurst Lane,Huntington Beach,92648,1775000,3,3.5,2700.0
+162,165,1306 Pacific Coast,Huntington Beach,92648,3500000,4,5.0,3700.0
+163,166,"16444 Bolsa Chica Street, Unit 140",Huntington Beach,92649,209900,2,2.0,1520.0
+164,167,"16444 Bolsa Chica, Unit 140",Huntington Beach,92649,209900,2,2.0,
+165,168,"17701 Sergio Circle, Unit 201",Huntington Beach,92647,529000,2,1.0,939.0
+166,169,7846 Lori Drive,Huntington Beach,92648,849000,3,2.0,1609.0
+167,170,7814 Alhambra Drive,Huntington Beach,92647,879000,3,2.0,1060.0
+168,171,19371 Weymouth Lane,Huntington Beach,92646,1050000,4,2.0,1875.0
+169,172,16727 Bolero Lane,Huntington Beach,92649,3150000,4,3.0,2879.0
+170,173,19742 Kingswood Lane,Huntington Beach,92646,415000,1,1.0,600.0
+171,174,2003 Hidden Valley Canyon Road,Laguna Beach,92651,1250000,2,2.0,824.0
+172,175,2003 Hidden Valley Canyon Road,Laguna Beach,92651,1250000,2,2.0,824.0
+173,176,1487 Catalina Street,Laguna Beach,92651,2450000,5,3.0,2303.0
+174,177,22161 Paseo Del Sur,Laguna Beach,92651,2100000,1,1.5,1060.0
+175,178,1149 Noria Street,Laguna Beach,92651,1799000,3,2.0,1854.0
+176,179,193 Emerald Bay,Laguna Beach,92651,16750000,4,5.5,7758.0
+177,180,254 Chiquita Street,Laguna Beach,92651,3298000,5,4.0,2002.0
+178,181,377 Mermaid Street,Laguna Beach,92651,4750000,4,6.0,3455.0
+179,182,385 Mermaid Street,Laguna Beach,92651,3550000,5,3.0,2300.0
+180,183,1315 Pitcairn Place,Laguna Beach,92651,4100000,5,6.5,4960.0
+181,184,31425 Coast Highway,Laguna Beach,92651,7498000,3,3.0,2200.0
+182,185,253 Emerald Bay,Laguna Beach,92651,7500000,5,5.0,4729.0
+183,186,1415 Coral Drive,Laguna Beach,92651,4350000,3,3.5,3400.0
+184,187,25 Bay Drive,Laguna Beach,92651,29900000,4,4.5,7000.0
+185,188,2623 Victoria Drive,Laguna Beach,92651,6200000,3,3.0,3655.0
+186,189,31711 Fairview Road,Laguna Beach,92651,2099000,2,2.0,900.0
+187,190,120 Irvine Cove Court,Laguna Beach,92651,9900000,5,4.5,6153.0
+188,191,549 Dunnegan Drive,Laguna Beach,92651,4595000,4,3.5,3311.0
+189,192,138 Emerald Bay,Laguna Beach,92651,6875000,4,4.5,3431.0
+190,193,571 Martinez Drive,La Habra,90631,689900,3,2.0,1154.0
+191,194,1901 Arbolita Drive,La Habra,90631,1050000,5,3.0,3018.0
+192,195,"740 West Lambert Road, Unit 39",La Habra,90631,375000,1,1.0,700.0
+193,196,1081 Briercliff Drive,La Habra,90631,799000,3,2.0,1431.0
+194,197,"2220 Lake Terrace Lane, Unit 97",La Habra,90631,194888,2,2.0,1632.0
+195,198,"1456 West Lambert Road, Unit 251",La Habra,90631,339500,1,1.0,660.0
+196,199,"1359 South Country Way, Unit 7",La Habra,90631,549900,2,2.5,1376.0
+197,200,2520 Canfield Drive,La Habra,90631,769900,3,2.0,1353.0
+198,201,130 East Greenwood Avenue,La Habra,90631,669000,3,1.75,1210.0
+199,202,1801 Pine Drive,La Habra,90631,698888,3,2.5,1657.0
+200,203,"351 South Monte Vista Street, Unit 4",La Habra,90631,425000,2,1.5,1082.0
+201,204,525 South Euclid Street,La Habra,90631,1775000,10,10.0,4800.0
+202,205,828 East La Habra Boulevard,La Habra,90631,500000,2,1.0,1683.0
+203,206,110 South College Street,La Habra,90631,500000,1,1.0,588.0
+204,207,2610 Story Avenue,La Habra,90631,650000,3,1.75,1495.0
+205,208,114 South College Street,La Habra,90631,350000,2,1.0,593.0
+206,209,1330 West Marigold Avenue,La Habra,90631,950000,4,3.5,2893.0
+207,210,105 East Knox Drive,La Habra,90631,625900,2,2.5,1411.0
+208,211,202 South Paige Lane,La Habra,90631,679900,3,2.5,1578.0
+209,212,"1430 West Lambert Road, Unit 386",La Habra,90631,309000,1,1.0,640.0
+210,213,"12100 Montecito Road, Unit 91",Los Alamitos,90720,659000,3,2.0,1216.0
+211,214,11922 Martha Ann Drive,Los Alamitos,90720,1399000,4,3.0,3009.0
+212,215,3922 San Joaquin Avenue,Los Alamitos,90720,1490000,5,3.0,2752.0
+213,216,31 High Water,Newport Beach,92657,59800000,7,11.0,15000.0
+214,217,624 Seaward Road,Newport Beach,92625,5495000,5,5.0,4468.0
+215,218,23 High Water,Newport Beach,92657,18000000,5,7.0,9449.0
+216,219,6 Midsummer,Newport Beach,92657,69800000,7,13.0,15500.0
+217,220,3100 Ocean Boulevard,Newport Beach,92625,16995000,3,3.5,4396.0
+218,221,25 Sea Island Drive,Newport Beach,92660,1225000,3,2.5,1819.0
+219,222,415 1/2 Marguerite Avenue,Newport Beach,92625,1495000,2,2.0,1293.0
+220,223,38 Linda Isle,Newport Beach,92660,31000000,4,4.5,5500.0
+221,224,1734 Plaza Del Norte,Newport Beach,92661,2925000,3,2.5,2369.0
+222,225,123 30th Street,Newport Beach,92663,3795000,6,4.0,2527.0
+223,226,2700 Ocean Boulevard,Newport Beach,92625,6995000,4,4.0,2948.0
+224,227,36 Auvergne,Newport Beach,92657,978000,2,2.75,1362.0
+225,228,7 Shoreview Drive,Newport Beach,92657,12950000,6,8.5,11000.0
+226,229,415 Marguerite Avenue,Newport Beach,92625,1495000,2,2.0,1293.0
+227,230,1 Royal St George Road,Newport Beach,92660,4950000,7,7.0,8131.0
+228,231,5505 River Avenue,Newport Beach,92663,3339000,4,3.0,2326.0
+229,232,"617-5 Orchid Avenue, Unit 2",Newport Beach,92625,1499000,2,2.0,1225.0
+230,233,"617 Orchid Avenue, Unit 2",Newport Beach,92625,1499000,2,2.0,1225.0
+231,234,1621 Anita Lane,Newport Beach,92660,2599000,3,2.5,2376.0
+232,235,127 Amethyst Avenue,Newport Beach,92662,3750000,3,3.0,2150.0
+233,236,12 Turnberry Drive,Newport Beach,92660,2795000,4,4.0,3340.0
+234,237,947 North Hart Street,Orange,92867,849985,4,2.0,1570.0
+235,239,2886 North Santa Fe Place,Orange,92865,679000,3,2.5,1600.0
+236,240,351 North Seranado Street,Orange,92869,875000,4,3.0,1829.0
+237,241,8118 East Peacock Lane East,Orange,92869,985000,3,2.5,1900.0
+238,242,8118 East Peacock Lane,Orange,92869,985000,3,2.5,1900.0
+239,243,6219 East Rocking Horse Way,Orange,92869,1199888,4,2.5,3045.0
+240,244,3416 East Barrington Drive,Orange,92869,825000,3,2.0,1786.0
+241,245,2409 East Coolidge Avenue,Orange,92867,935000,3,1.75,1431.0
+242,246,"1768 North Widdows Way, Unit 4",Orange,92865,425000,2,1.75,1055.0
+243,247,6016 East Hummingbird Court,Orange,92869,979500,4,3.0,2073.0
+244,248,2344 East Locust Avenue,Orange,92867,799000,3,2.0,1353.0
+245,249,"148 North Mine Canyon Road, Unit K",Orange,92869,405000,1,1.0,738.0
+246,250,"2000 West Palmyra Avenue, Unit 25",Orange,92868,575000,3,2.5,1387.0
+247,251,535 East Culver Avenue,Orange,92866,950000,3,2.0,1188.0
+248,252,1860 North Nordic Place,Orange,92865,1149000,5,3.0,2563.0
+249,253,636 North Noble Street,Orange,92869,840000,3,2.0,1410.0
+250,254,745 North Hewes Street,Orange,92869,895000,3,2.75,2416.0
+251,255,364 Molokai Drive,Placentia,92870,529000,2,2.0,1300.0
+252,256,852 Chicago Avenue,Placentia,92870,950000,3,2.5,2291.0
+253,257,"150 Southampton Way, Unit 17",Placentia,92870,419999,2,1.0,794.0
+254,258,408 Barry Place,Placentia,92870,949800,4,3.0,2007.0
+255,259,1570 East Hastings Way,Placentia,92870,710000,3,2.5,1366.0
+256,260,413 Rospaw Way,Placentia,92870,869900,3,1.75,1625.0
+257,261,404 Swail Drive,Placentia,92870,975000,3,2.0,2222.0
+258,262,406 Massachusetts Lane,Placentia,92870,780000,4,3.0,2048.0
+259,263,5378 Saratoga Street,Placentia,92870,799000,3,2.0,1148.0
+260,264,1138 North Vecino Lane,Placentia,92870,889000,5,3.75,2339.0
+261,265,"245 Sheffield Street, Unit 67",Placentia,92870,449000,2,1.0,884.0
+262,266,805 Berkenstock Circle,Placentia,92870,950000,4,2.5,2327.0
+263,267,313 New Jersey Lane,Placentia,92870,715000,3,2.0,1601.0
+264,268,"340 Lakepark Drive, Unit 5",Placentia,92870,185000,2,2.0,1440.0
+265,269,1268 Antigua Circle,Placentia,92870,649000,3,1.75,1350.0
+266,270,163 Saddle Drive,Placentia,92870,899900,3,2.5,2306.0
+267,271,1546 Spruce Street,Placentia,92870,748000,3,3.5,2024.0
+268,272,806 Gutmann Lane,Placentia,92870,879000,4,2.5,1839.0
+269,273,"212 South Kraemer Boulevard, Unit 2508",Placentia,92870,380000,2,1.75,929.0
+270,274,"2017 Orchard Drive, Unit 10",Placentia,92870,589500,3,2.5,1745.0
+271,275,"812 North Angelina Drive, Unit 812",Placentia,92870,725000,3,2.5,2327.0
+272,276,13 Via Almeria,San Clemente,92673,589000,2,2.0,1351.0
+273,277,"515 Monterey Lane, Unit R8",San Clemente,92672,1100000,2,1.75,1165.0
+274,278,4100 Calle Isabella,San Clemente,92672,65000000,9,11.75,15000.0
+275,279,"1010 South El Camino Real, Unit 208",San Clemente,92672,1985000,3,3.0,1939.0
+276,280,4 Via Chapala,San Clemente,92673,2595000,4,3.25,3306.0
+277,281,"1010 South El Camino Real, Unit 207",San Clemente,92672,1795000,2,2.5,1977.0
+278,282,"1010 South El Camino Real, Unit 204",San Clemente,92672,1495000,2,2.5,1612.0
+279,283,408 Camino Flora Vista,San Clemente,92673,1268000,4,2.5,2414.0
+280,284,1616 South Ola Vista,San Clemente,92672,1475000,2,1.5,1197.0
+281,285,183 Avenida Baja,San Clemente,92672,865000,3,1.75,1560.0
+282,286,238 Avenida Monterey,San Clemente,92672,1460000,6,3.0,2688.0
+283,287,"2015 Via Concha, Unit 141",San Clemente,92673,679900,3,2.0,1254.0
+284,288,183 West Avenida Junipero,San Clemente,92672,1399000,2,2.0,1389.0
+285,289,918 Via De Angeles,San Clemente,92672,1299000,3,2.0,1864.0
+286,290,118 Via San Sebastian,San Clemente,92672,4450000,5,5.5,5130.0
+287,291,13 Calle Tamara,San Clemente,92673,3095000,5,5.5,5380.0
+288,292,10 Calle Clasico,San Clemente,92673,989000,4,2.5,2248.0
+289,293,1201 Via Visalia,San Clemente,92672,1275000,4,2.5,2501.0
+290,294,159 West Avenida Junipero,San Clemente,92672,2299000,4,2.5,3072.0
+291,295,27462 Paseo Arco Clave,San Juan Capistrano,92675,2150000,5,4.5,5800.0
+292,296,28339 Via Del Mar,San Juan Capistrano,92675,1198000,4,3.0,2418.0
+293,297,25622 Paseo De La Paz,San Juan Capistrano,92675,6150000,5,4.5,6225.0
+294,298,28800 Martingale Drive,San Juan Capistrano,92675,2900000,5,5.5,4408.0
+295,299,28631 Martingale Drive,San Juan Capistrano,92675,3200000,4,4.5,4521.0
+296,300,31555 Peppertree-Bend,San Juan Capistrano,92675,4388000,7,7.0,9012.0
+297,301,25677 Paseo De La Paz,San Juan Capistrano,92675,4695000,5,5.5,6150.0
+298,302,31432 La Calera Street,San Juan Capistrano,92675,849900,1,1.0,1016.0
+299,303,30761 Marbella Vista,San Juan Capistrano,92675,1750000,5,4.5,3807.0
+300,304,31531 Peppertree-Bend,San Juan Capistrano,92675,11200000,9,11.0,15883.0
+301,305,"32221 Alipaz Street, Unit 244",San Juan Capistrano,92675,320000,1,1.0,764.0
+302,306,28371 Via Del Sereno,San Juan Capistrano,92675,1399900,4,3.0,2920.0
+303,307,30111 Saddleridge Drive,San Juan Capistrano,92675,2679000,5,4.5,5636.0
+304,308,27525 Paseo Mimosa,San Juan Capistrano,92675,819000,4,2.0,1486.0
+305,309,33601 Paseo Eternidad,San Juan Capistrano,92675,2499000,3,3.5,3230.0
+306,312,31242 Via Cuartel,San Juan Capistrano,92675,1285000,5,2.5,2978.0
+307,313,"0 Hot Springs Cy, Unit 7",San Juan Capistrano,92675,260000,1,1.0,780.0
+308,314,27533 Via Ramona,San Juan Capistrano,92675,850000,3,2.0,1486.0
+309,315,2102 Poinsettia Street North,Santa Ana,92706,799000,3,1.0,1305.0
+310,316,1917 West Myrtle Street,Santa Ana,92703,2195000,12,6.0,4500.0
+311,317,2514 South Shelton Street,Santa Ana,92707,769000,3,2.0,1215.0
+312,318,"2521 West Sunflower Avenue, Unit P12",Santa Ana,92704,360000,2,2.0,878.0
+313,319,2001 West Adams Street,Santa Ana,92704,799998,4,1.75,1620.0
+314,320,2611 North Olive Lane,Santa Ana,92706,994900,3,2.0,1975.0
+315,322,"1404 North Tustin Avenue, Unit E2",Santa Ana,92705,510000,2,1.75,1200.0
+316,323,210 West Alton Avenue,Santa Ana,92707,965000,4,2.5,2490.0
+317,324,"4201 West 5th Street, Unit 302",Santa Ana,92703,370000,2,1.0,773.0
+318,325,2016 West 15th Street,Santa Ana,92706,759900,3,2.0,1695.0
+319,326,233 Jeanette Lane,Santa Ana,92705,680000,3,3.5,1829.0
+320,327,2140 East Wellington Avenue,Santa Ana,92701,699999,3,2.0,1531.0
+321,328,726 South Kilson Drive,Santa Ana,92701,649900,3,1.0,1216.0
+322,329,"206 South Sullivan Street, Unit 77",Santa Ana,92704,150000,3,2.0,1320.0
+323,330,"206 South Sullivan, Unit 77",Santa Ana,92704,150000,3,2.0,1320.0
+324,331,"1400 West Warner Avenue, Unit 35",Santa Ana,92704,325000,2,1.0,837.0
+325,332,"2827 South Fairview Street, Unit O",Santa Ana,92704,349000,1,1.0,621.0
+326,333,"3957 West McFadden Avenue, Unit D",Santa Ana,92704,335000,2,1.0,838.0
+327,334,239 7th Street,Seal Beach,90740,1495000,3,2.0,1724.0
+328,335,"13301 El Dorado Drive, Unit 204I",Seal Beach,90740,247000,2,0.75,800.0
+329,336,"1320 Kenwood Road, Unit M7158K",Seal Beach,90740,320000,2,0.75,750.0
+330,337,13171 St Andrews Dr M7-154l,Seal Beach,90740,339500,2,1.0,1100.0
+331,338,"13260 Fairfield Lane, Unit 171I",Seal Beach,90740,295000,2,1.0,1100.0
+332,339,4556 Guava Avenue,Seal Beach,90740,1179000,4,2.5,2466.0
+333,340,"1121 Northwood Road, Unit 237F",Seal Beach,90740,364900,2,1.0,1150.0
+334,341,4473 Candleberry Avenue,Seal Beach,90740,1229000,3,2.5,2331.0
+335,342,"12200 Montecito Road, Unit B301",Seal Beach,90740,409999,1,1.0,729.0
+336,343,3610 Teaberry Circle,Seal Beach,90740,1175950,4,2.5,2748.0
+337,344,"1542 Merion Way, Unit 35D M2",Seal Beach,90740,189000,1,1.0,800.0
+338,345,1 Anderson,Seal Beach,92649,4950000,4,3.25,2828.0
+339,346,154 12th Street,Seal Beach,90740,2150000,3,2.5,2878.0
+340,347,"13048 Del Monte Drive, Unit 42N",Seal Beach,90740,289000,2,1.75,1200.0
+341,348,"1640 Glenview Road, Unit 76G",Seal Beach,90740,479500,2,1.25,1100.0
+342,349,"13451 St Andrews M5, Unit 124K",Seal Beach,90740,425000,2,2.0,1000.0
+343,350,1 Anderson,Seal Beach,90740,4950000,4,3.25,2828.0
+344,351,1705 Bolsa Avenue,Seal Beach,90740,1300000,3,1.75,2268.0
+345,352,1307 Electric Avenue,Seal Beach,90740,1559000,3,2.0,1081.0
+346,353,"13401 St Andrews Drive, Unit 128J M6",Seal Beach,90740,299000,2,1.0,760.0
+347,354,"13250 Fairfield Lane, Unit 173I",Seal Beach,90740,289000,2,1.0,900.0
+348,355,8008 Torino,Stanton,90680,645000,3,3.0,1728.0
+349,356,"7121 West Cerritos Avenue, Unit 5",Stanton,90680,410000,2,1.0,843.0
+350,357,7320 West Cerritos Avenue,Stanton,90680,1600000,9,8.0,7841.0
+351,358,12920 Sycamore Street,Stanton,92841,1650000,8,4.0,3752.0
+352,359,"7907 West Cerritos Avenue, Unit 23",Stanton,90680,499900,2,2.5,1267.0
+353,360,11056 Irwin Drive,Stanton,90680,525000,4,1.75,1348.0
+354,361,"12101 Dale, Unit 71",Stanton,90680,119000,2,1.0,1440.0
+355,362,8100 West Cerritos Avenue,Stanton,90680,1975000,12,12.0,5202.0
+356,363,"12101 Dale Avenue, Unit 71",Stanton,90680,119000,2,1.75,1440.0
+357,364,7132 Marshall Way,Stanton,90680,494888,3,1.5,1120.0
+358,365,12815 Sycamore Street,Stanton,92841,730000,3,2.0,1131.0
+359,366,12302 Santa Rosalia Street,Stanton,92841,897000,4,2.0,1281.0
+360,368,"3050 West Ball Road, Unit 118",Stanton,90680,145000,3,2.0,1510.0
+361,369,10531 Carrotwood Way,Stanton,90680,545000,3,1.5,1232.0
+362,370,"8681 Katella Avenue, Unit 880",Stanton,90680,170000,3,2.0,1275.0
+363,371,7072 Kermore Lane,Stanton,90680,719000,3,2.0,1302.0
+364,372,8932 Lola Avenue,Stanton,92804,695000,3,2.0,1526.0
+365,373,8041 Hynes Road,Stanton,90680,895000,3,2.5,1694.0
+366,374,"7887 Lampson Avenue, Unit 36",Stanton,92841,119900,3,2.0,920.0
+367,375,18590 Warren Avenue,Tustin,92780,1148800,4,2.0,2344.0
+368,376,2354 Paseo Circulo,Tustin,92782,720000,2,2.25,1305.0
+369,377,"2960 Champion Way, Unit 1007",Tustin,92782,435000,1,1.0,774.0
+370,378,12549 Wedgwood Circle,Tustin,92780,815000,3,2.5,1481.0
+371,379,1877 Harvest Circle,Tustin,92780,825000,3,2.5,1865.0
+372,380,14091 Del Amo Avenue,Tustin,92780,799500,3,2.0,1416.0
+373,381,2886 Player Lane,Tustin,92782,749900,3,2.5,1724.0
+374,382,"2960 Champion Way, Unit 1312",Tustin,92782,580000,2,2.0,1047.0
+375,383,12185 Glines Court,Tustin,92782,1949000,4,4.0,4061.0
+376,384,17602 Orange Tree Lane,Tustin,92780,1495000,4,2.25,2607.0
+377,385,2887 Player Lane,Tustin,92782,789900,4,2.5,1848.0
+378,387,"645 West 6th Street, Unit B",Tustin,92780,450000,2,1.5,1092.0
+379,390,12805 Crawford Drive,Tustin,92782,1388000,4,3.0,2925.0
+380,392,1722 Green Meadow Avenue,Tustin,92780,925000,4,2.0,2050.0
+381,393,49 Malaga Street,Tustin,92780,315000,3,1.75,1568.0
+382,394,"2960 Champion Way, Unit 1815",Tustin,92782,444900,1,1.0,740.0
+383,395,9491 Lemon Street,Villa Park,92861,1649999,6,5.5,5058.0
+384,396,9082 Loma Street,Villa Park,92861,3295000,5,5.5,6957.0
+385,397,17932 Lincoln Street,Villa Park,92861,1649000,5,3.0,3135.0
+386,398,19222 Valley Drive,Villa Park,92861,3995000,6,8.0,9004.0
+387,399,6871 Hood Drive,Westminster,92683,815800,4,2.0,1684.0
+388,400,5051 Princeton Avenue,Westminster,92683,899000,4,2.0,1636.0
+389,401,14279 Baker Street,Westminster,92683,635000,3,2.0,1312.0
+390,402,6642 Trask Avenue,Westminster,92683,849500,4,2.0,1177.0
+391,403,13202 Hoover Street,Westminster,92683,165000,3,2.0,1248.0
+392,405,6462 Walt Street,Westminster,92683,700800,3,1.0,991.0
+393,406,"10200 Bolsa Avenue, Unit 137",Westminster,92683,100000,3,2.0,1440.0
+394,407,9821 Cheshire Avenue,Westminster,92683,1100000,5,3.0,2328.0
+395,408,"15621 Beach Boulevard, Unit 75",Westminster,92683,90000,2,2.0,1440.0
+396,410,7415 Hazard Avenue,Westminster,92683,550000,1,1.0,480.0
+397,411,13202 Hoover,Westminster,92683,165000,3,2.0,1248.0
+398,415,13800 Milton Avenue,Westminster,92683,4850000,58,58.0,31426.0
+399,416,6681 Sequoia Drive,Westminster,92683,848000,4,2.0,1683.0
+400,417,7042 Fenway Drive,Westminster,92683,4275000,20,10.0,9630.0
+401,418,6166 Vía Nietos,Yorba Linda,92887,689900,2,2.0,1529.0
+402,419,4235 Citrus Circle,Yorba Linda,92886,1599000,4,2.5,2679.0
+403,420,4564 Jamestowne,Yorba Linda,92886,535000,3,1.5,1190.0
+404,421,21270 Vía Del Lobo,Yorba Linda,92887,654000,3,2.0,1342.0
+405,422,"23486 Cambridge Road, Unit 295",Yorba Linda,92887,495000,2,2.0,963.0
+406,423,5911 Lynnbrook Plaza,Yorba Linda,92886,849000,4,2.0,1665.0
+407,424,5911 Lynnbrook,Yorba Linda,92886,849000,4,2.0,1665.0
+408,425,17545 Edgewood Lane,Yorba Linda,92886,1650000,4,3.5,3845.0
+409,426,20465 Chianti Court,Yorba Linda,92886,1599000,5,5.5,3717.0
+410,427,"19858 Ridge Manor Way, Unit 28",Yorba Linda,92886,520000,3,1.75,1062.0
+411,428,19950 Winners Circle,Yorba Linda,92886,3000000,5,5.5,5834.0
+412,429,3845 Singingwood Drive,Yorba Linda,92886,1399000,4,2.75,2724.0
+413,430,"16901 Lake Ridge Way, Unit 203",Yorba Linda,92886,170000,2,2.0,1368.0
+414,431,"20011 Pineville Court, Unit 54",Yorba Linda,92886,489000,2,1.0,842.0
+415,432,19366 Shetland Lane,Yorba Linda,92886,2488000,6,6.5,5870.0
+416,433,4390 Camphor Avenue,Yorba Linda,92886,1375000,4,2.0,2157.0
+417,434,25505 Palermo Way,Yorba Linda,92887,830000,3,2.5,1625.0
+418,435,4598 Avocado Avenue,Yorba Linda,92886,1575000,4,3.5,3082.0
+419,436,"21 Sage, Unit 44",Irvine,92604,619900,3,1.5,1109.0
+420,437,262 Rockefeller,Irvine,92612,1249000,3,3.5,2349.0
+421,438,4811 Lori Ann Lane,Irvine,92604,948000,3,2.0,1623.0
+422,439,2 Sunpeak,Irvine,92603,3680000,5,3.5,6113.0
+423,440,"5200 Irvine Boulevard, Unit 44",Irvine,92620,480000,2,2.0,2000.0
+424,441,"315 Paradiso, Unit 18",Irvine,92602,1832000,4,3.0,2494.0
+425,442,"317 Paradiso, Unit 19",Irvine,92602,1949000,4,4.0,2753.0
+426,443,88 Rembrandt,Irvine,92620,1050000,3,2.5,1685.0
+427,444,12 Gillman Street,Irvine,92612,1388000,5,3.0,2900.0
+428,445,7 Monte Carlo,Irvine,92614,1099900,3,2.5,1784.0
+429,446,194 Harringay,Irvine,92618,735000,2,2.5,1756.0
+430,447,1376 Scholarship,Irvine,92612,430000,1,1.0,610.0
+431,448,139 Carmine,Irvine,92618,1089000,3,3.0,2473.0
+432,449,43 Spanish Lace,Irvine,92620,589900,1,1.5,1099.0
+433,450,68 Chantilly,Irvine,92620,899888,3,3.0,1479.0
+434,451,"19 Wildwood, Unit 6",Irvine,92604,499000,2,1.0,928.0
+435,452,12 Orchard,Irvine,92618,725000,3,2.0,1133.0
+436,453,797 Benchmark,Irvine,92618,1199000,4,4.0,2773.0
+437,454,"107 Linda Vista, Unit 14",Irvine,92618,1423631,3,2.5,1860.0
+438,455,109 Tearose,Irvine,92603,1948000,4,3.5,2646.0
+439,456,25 Silverado,Irvine,92618,814900,3,3.0,1653.0
+440,457,25821 Serenata Drive,Mission Viejo,92691,1075000,3,2.5,1975.0
+441,458,25625 Budapest Avenue,Mission Viejo,92691,799000,3,2.0,1575.0
+442,459,24761 Doria Avenue,Mission Viejo,92691,975000,4,3.0,2837.0
+443,460,24272 Via San Clemente,Mission Viejo,92692,1130000,4,2.0,2230.0
+444,461,7 Copious Lane,Mission Viejo,92694,1600000,5,4.5,4201.0
+445,462,"26182 La Real, Unit A385",Mission Viejo,92691,317900,0,1.0,441.0
+446,463,184 Valley View Terrace,Mission Viejo,92692,679800,3,2.5,1364.0
+447,464,25095 Amberwood,Mission Viejo,92692,1175000,5,3.0,2427.0
+448,465,28451 Zurita,Mission Viejo,92692,889000,4,2.0,1472.0
+449,466,9 Altezza Drive,Mission Viejo,92692,1313900,4,3.0,2933.0
+450,467,26622 Castile Lane,Mission Viejo,92691,1805500,5,3.0,3150.0
+451,468,25861 Malia Court,Mission Viejo,92691,768000,3,2.25,1905.0
+452,469,24551 Chrisanta Drive,Mission Viejo,92691,970000,3,2.0,1375.0
+453,470,18 Harveston,Mission Viejo,92692,999900,4,2.75,2000.0
+454,471,"26372 Via Roble, Unit 17",Mission Viejo,92691,535000,3,2.0,1160.0
+455,472,27782 Gleneagles,Mission Viejo,92692,740000,3,2.5,1782.0
+456,473,222 Valley View Terrace,Mission Viejo,92692,663000,3,2.5,1352.0
+457,474,23891 Rosehedge Street,Mission Viejo,92691,799000,4,2.0,1875.0
+458,475,27062 Benidorm,Mission Viejo,92692,850000,3,2.0,1472.0
+459,476,21612 Criptana,Mission Viejo,92692,898000,4,2.5,2033.0
+460,477,28385 Pacheco,Mission Viejo,92692,629900,2,2.0,1279.0
+461,478,33291 Bremerton Street,Dana Point,92629,1860000,4,3.0,3487.0
+462,479,9 Tirremia Drive,Dana Point,92629,2000000,4,4.0,3193.0
+463,480,15 Veracruz,Dana Point,92629,1100000,3,2.5,2151.0
+464,481,33895 Malaga Drive,Dana Point,92629,1200000,3,2.0,1140.0
+465,482,33661 Shackleton Isle,Dana Point,92629,4650000,4,5.0,5092.0
+466,483,33661 Shackleton,Dana Point,92629,4650000,4,5.0,5092.0
+467,484,23965 Leeward Drive,Dana Point,92629,2495000,3,2.5,2243.0
+468,485,31 Strand Beach Drive,Dana Point,92629,22500000,4,5.0,7852.0
+469,486,17 Beach View Avenue,Dana Point,92629,18250000,5,8.0,8329.0
+470,487,"34122 Selva Road, Unit 279",Dana Point,92629,895000,2,2.0,873.0
+471,488,52 Tennis Villas Drive,Dana Point,92629,1189500,2,2.0,1357.0
+472,489,33671 Shackleton Isle,Dana Point,92629,4200000,4,2.5,2850.0
+473,490,33 Monarch Bay Drive,Dana Point,92629,20995000,5,6.0,10900.0
+474,491,"52 Corniche Drive, Unit H",Dana Point,92629,499900,1,1.0,755.0
+475,492,32811 Shipside Drive,Dana Point,92629,1149900,4,2.5,2590.0
+476,493,27042 Calle Dolores,Dana Point,92624,2695000,4,3.25,3150.0
+477,494,40 St Michael,Dana Point,92629,1350000,3,2.5,1955.0
+478,495,34055 Crystal Lantern,Dana Point,92629,1500000,3,3.0,2100.0
+479,496,21 St John,Dana Point,92629,1175000,3,2.5,2000.0
+480,497,"34264 Camino Capistrano, Unit 308",Dana Point,92624,309999,1,1.0,490.0
+481,498,31022 Canterbury Place,Laguna Niguel,92677,1495000,5,3.0,3404.0
+482,499,28711 Springfield Drive,Laguna Niguel,92677,1385000,3,2.0,2048.0
+483,500,31411 Isle Vista,Laguna Niguel,92677,1250000,3,2.0,1626.0
+484,501,34 Vista Montemar,Laguna Niguel,92677,3000000,4,4.0,4047.0
+485,502,29482 Pointe Royale,Laguna Niguel,92677,1099000,4,2.5,2340.0
+486,503,"107 Dover Place, Unit 107",Laguna Niguel,92677,549900,3,2.0,1206.0
+487,504,28611 Breckenridge Drive,Laguna Niguel,92677,1549000,4,2.75,2647.0
+488,505,22802 Mantanza Drive,Laguna Niguel,92677,995000,3,2.0,1642.0
+489,506,2 Belaire,Laguna Niguel,92677,2599000,5,4.5,3690.0
+490,507,25112 Monte Verde Drive,Laguna Niguel,92677,1179000,5,2.5,2055.0
+491,508,29822 Stordahl Circle,Laguna Niguel,92677,1399900,5,3.5,2480.0
+492,509,29842 Hiddenwood,Laguna Niguel,92677,1599000,4,3.5,3011.0
+493,510,31154 Flying Cloud Drive,Laguna Niguel,92677,1450000,3,2.0,1800.0
+494,511,"31335 East Nine Drive, Unit 47A",Laguna Niguel,92677,645000,2,2.0,1122.0
+495,512,29412 Castle Road,Laguna Niguel,92677,989000,4,2.5,2181.0
+496,513,28842 Placida Avenue,Laguna Niguel,92677,1225000,4,2.0,1462.0
+497,514,"30902 Club House Drive, Unit 25G",Laguna Niguel,92677,549000,2,2.0,1024.0
+498,515,4 Goodwin Place,Laguna Niguel,92677,1779000,5,4.0,3235.0
+499,516,"23 Brighton Place, Unit 23",Laguna Niguel,92677,499900,2,1.25,823.0
+500,517,3 Andover Court,Laguna Niguel,92677,4895000,5,5.5,6000.0
+501,518,25042 Buckskin Drive,Laguna Hills,92653,1900000,3,2.5,3597.0
+502,519,"23442 Caminito Salado, Unit 351",Laguna Hills,92653,572000,3,2.0,1460.0
+503,520,25881 Cedarbluff,Laguna Hills,92653,1551000,4,3.0,3125.0
+504,521,24942 Hendon Street,Laguna Hills,92653,899000,4,2.0,1867.0
+505,522,26208 Summerhill Lane,Laguna Hills,92653,689500,2,2.5,1356.0
+506,523,"25782 Via Lomas, Unit 85",Laguna Hills,92653,489000,3,1.0,1173.0
+507,524,22445 Caminito Grande,Laguna Hills,92653,585000,3,2.0,1225.0
+508,525,22072 Caminito Vino,Laguna Hills,92653,619000,3,2.5,1213.0
+509,526,"24433 Chancellor Court, Unit 270",Laguna Hills,92653,549000,2,2.5,1288.0
+510,527,"23301 Ridge Rte Drive, Unit 129",Laguna Hills,92653,158800,2,2.0,1500.0
+511,528,26032 Buena Vista Court,Laguna Hills,92653,1200000,4,3.0,3152.0
+512,529,"23301 Ridge Rte Drive, Unit 42",Laguna Hills,92653,199000,3,2.0,1512.0
+513,530,25711 Padua Drive,Laguna Hills,92653,880000,3,2.0,1325.0
+514,531,26131 Red Corral Road,Laguna Hills,92653,1999900,5,3.5,3435.0
+515,532,27441 Maverick Circle,Laguna Hills,92653,1795000,4,2.75,3000.0
+516,533,25992 Rich Springs Circle,Laguna Hills,92653,1788888,4,3.0,2865.0
+517,534,25731 Bucklestone Drive,Laguna Hills,92653,2725000,6,5.5,6799.0
+518,535,24891 Los Gatos Drive,Laguna Hills,92653,1299880,5,3.5,3138.0
+519,536,25181 Barents,Laguna Hills,92653,1100000,4,3.0,3195.0
+520,537,24952 Hon Avenue,Laguna Hills,92653,1075000,5,2.0,2434.0
+521,538,"23235 Caminito Andreta, Unit 48",Laguna Hills,92653,580000,3,2.0,1200.0
+522,539,22 Touraine Place,Lake Forest,92610,899900,4,3.0,1910.0
+523,540,25612 Hazelnut Lane,Lake Forest,92630,965000,4,2.5,2140.0
+524,541,24932 Calle Vecindad,Lake Forest,92630,950000,4,3.0,2050.0
+525,542,21466 Kirkwall Lane,Lake Forest,92630,849900,3,2.5,1524.0
+526,543,24061 La Rosa Drive,Lake Forest,92630,959900,4,3.5,2700.0
+527,544,108 Wild Rose,Lake Forest,92630,769900,3,2.5,1537.0
+528,545,34 Blanco,Lake Forest,92610,1249000,5,3.0,2550.0
+529,546,33 Marseille Way,Lake Forest,92610,1249000,4,3.5,2810.0
+530,547,27001 Brighton Lane,Lake Forest,92630,1195000,4,2.5,2474.0
+531,548,"23242 Orange Avenue, Unit 3",Lake Forest,92630,369000,2,1.0,834.0
+532,549,19501 Highridge Way,Lake Forest,92679,799000,3,2.5,1653.0
+533,550,24625 Vía Tequila,Lake Forest,92630,925000,4,2.5,2124.0
+534,551,235 Siena,Lake Forest,92630,898000,4,2.5,1877.0
+535,552,25121 Shaver Lake Circle,Lake Forest,92630,989000,4,3.0,2546.0
+536,553,6 Banyan,Lake Forest,92610,959900,4,2.5,2156.0
+537,554,405 Echo Blue,Lake Forest,92610,824999,3,3.0,1693.0
+538,555,24062 Gemwood Drive,Lake Forest,92630,850000,3,2.0,1144.0
+539,556,61 Wild Rose,Lake Forest,92630,660000,2,2.0,1225.0
+540,557,"24001 Muirlands Boulevard, Unit 398",Lake Forest,92630,268000,3,2.0,1608.0
+541,558,"250 Calle Aragon, Unit C",Laguna Woods,92637,468800,2,2.0,1000.0
+542,559,2358-c Via Mariposa,Laguna Woods,92637,280000,2,1.75,1000.0
+543,560,"803 Ronda Mendoza, Unit O",Laguna Woods,92637,459000,2,2.0,1209.0
+544,561,2358-c Via Mariposa East,Laguna Woods,92637,280000,2,1.75,1000.0
+545,562,2358 Via Mariposa East,Laguna Woods,92637,280000,2,2.0,1000.0
+546,563,"2150 Ronda Granada, Unit D",Laguna Woods,92637,428800,2,2.0,1324.0
+547,564,"711 Avenida Majorca, Unit B",Laguna Woods,92637,375000,2,1.75,1300.0
+548,565,"845 Ronda Mendoza, Unit Q",Laguna Woods,92637,235000,2,1.75,1009.0
+549,566,"55 Calle Aragon, Unit H",Laguna Woods,92637,190000,2,1.75,1009.0
+550,567,"2390 Via Mariposa W, Unit 1H",Laguna Woods,92677,525000,2,1.5,1195.0
+551,568,"565 Avenida Sevilla, Unit A",Laguna Woods,92637,269000,2,1.0,1000.0
+552,569,"3367 Punta Alta, Unit 3C",Laguna Woods,92637,378888,2,1.5,894.0
+553,570,"2355 Via Mariposa East, Unit 3D",Laguna Woods,92637,425000,2,2.0,1199.0
+554,571,"2390 Via Mariposa W, Unit 1H",Laguna Woods,92637,525000,2,1.5,1195.0
+555,572,"3417 Punta Alta, Unit A",Laguna Woods,92637,459000,2,2.0,1188.0
+556,573,"2191 Via Mariposa East, Unit B",Laguna Woods,92637,299000,2,1.75,1020.0
+557,574,"2031 Via Mariposa East, Unit H",Laguna Woods,92637,279900,2,1.0,890.0
+558,575,"3252 San Amadeo, Unit N",Laguna Woods,92637,359000,2,1.75,1079.0
+559,576,"4026 Calle Sonora Este, Unit 3C",Laguna Woods,92637,499000,2,2.0,1189.0
+560,577,"2102 Ronda Granada, Unit B",Laguna Woods,92637,199000,2,1.75,1009.0
+561,578,"24055 Paseo Del Lago, Unit 760",Laguna Woods,92637,125000,2,2.0,1200.0
+562,579,100 Vía Contento,Rancho Santa Margarita,92688,525000,2,2.0,1170.0
+563,580,31951 Magpie Street,Rancho Santa Margarita,92679,1399900,4,3.75,3732.0
+564,581,8 Saltillo,Rancho Santa Margarita,92688,875000,3,2.5,1605.0
+565,582,14 Andalusia,Rancho Santa Margarita,92688,784900,4,3.0,1851.0
+566,583,100 Seacountry Lane,Rancho Santa Margarita,92688,589000,2,2.5,1100.0
+567,584,64 Vía Lampara,Rancho Santa Margarita,92688,549900,2,2.0,1119.0
+568,585,20 Via Tranquila,Rancho Santa Margarita,92688,1690000,4,2.75,2750.0
+569,586,40 Las Castanetas,Rancho Santa Margarita,92688,875900,4,3.0,1670.0
+570,587,39 Vía Ermitas,Rancho Santa Margarita,92688,539900,2,2.0,1170.0
+571,588,11 Ibiza,Rancho Santa Margarita,92688,700000,3,2.5,1699.0
+572,589,11 Brisa Ribera,Rancho Santa Margarita,92688,449900,1,1.0,804.0
+573,590,31942 Pleasant Glen Road,Rancho Santa Margarita,92679,849900,3,2.5,1525.0
+574,591,7 Brisa Ribera,Rancho Santa Margarita,92688,429000,1,1.0,841.0
+575,592,15 Ceramica,Rancho Santa Margarita,92688,899900,4,2.5,1757.0
+576,593,28 Cll Serra,Rancho Santa Margarita,92688,1400888,4,3.0,2750.0
+577,594,16 Via Vison,Rancho Santa Margarita,92688,1248000,5,4.0,3481.0
+578,595,6 Oleander Lane,Rancho Santa Margarita,92688,819000,3,2.5,1397.0
+579,596,4 Anglesite,Rancho Santa Margarita,92688,901200,3,2.5,2004.0
+580,597,21361 Windstream Circle,Rancho Santa Margarita,92679,1299000,5,3.0,3251.0
+581,598,"200 Pasto Rico, Unit 77",Rancho Santa Margarita,92688,565000,2,2.5,1091.0
+582,599,56 Vía Pamplona,Rancho Santa Margarita,92688,429000,2,1.0,930.0
+583,600,11 Maple Drive,Aliso Viejo,92656,850000,3,2.5,1637.0
+584,601,4 Brownstone Way,Aliso Viejo,92656,739000,2,2.5,1598.0
+585,602,37 Tulare Drive,Aliso Viejo,92656,625000,2,2.5,1172.0
+586,603,"23412 Pacific Park Drive, Unit 2C",Aliso Viejo,92656,469000,2,2.0,1127.0
+587,604,12 Ovation Lane,Aliso Viejo,92656,685000,2,2.0,1538.0
+588,605,37 Colony Way,Aliso Viejo,92656,759900,3,2.5,1455.0
+589,606,"23412 Pacific Park Drive, Unit 12H",Aliso Viejo,92656,515000,2,2.0,1090.0
+590,607,96 Nightingale Drive,Aliso Viejo,92656,599900,2,2.5,1360.0
+591,608,31 Hawksmoor,Aliso Viejo,92656,948000,4,3.0,2165.0
+592,609,201 Cinnamon Teal,Aliso Viejo,92656,550000,2,2.5,1064.0
+593,610,23541 Los Adornos,Aliso Viejo,92656,585000,3,2.0,1240.0
+594,611,36 Golf Drive,Aliso Viejo,92656,1149900,3,3.0,2716.0
+595,612,"22681 Oak Grove, Unit 423",Aliso Viejo,92656,540000,2,2.0,1158.0
+596,613,156 Nightingale Drive,Aliso Viejo,92656,625900,2,2.5,1420.0
+597,614,38 Edmonton Place,Aliso Viejo,92656,915000,3,2.5,1799.0
+598,615,57 Promontory Park,Aliso Viejo,92656,650000,2,2.5,1360.0
+599,616,11 Coffeeberry,Aliso Viejo,92656,1218000,5,3.0,2748.0
+600,617,13 Windchime,Aliso Viejo,92656,679000,3,2.5,1499.0
